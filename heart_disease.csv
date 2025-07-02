@@ -1,0 +1,1026 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exercise induced angina (exang),oldpeak,slope,ca,thal,target
+52,Male,Typical Angina,125,212,FALSE,Abnoramlity,168,No Pain,1,Downsloping,Two vessels colored,Reversible defect,No
+53,Male,Typical Angina,140,203,TRUE,Normal,155,Pain,3.1,Upsloping,Normal,Reversible defect,No
+70,Male,Typical Angina,145,174,FALSE,Abnoramlity,125,Pain,2.6,Upsloping,Normal,Reversible defect,No
+61,Male,Typical Angina,148,203,FALSE,Abnoramlity,161,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+62,Female,Typical Angina,138,294,TRUE,Abnoramlity,106,No Pain,1.9,Flat,Three vessels colored,Normal,No
+58,Female,Typical Angina,100,248,FALSE,Normal,122,No Pain,1,Flat,Normal,Normal,Yes
+58,Male,Typical Angina,114,318,FALSE,Left ventricular hypertrophy,140,No Pain,4.4,Upsloping,Three vessels colored,Fixed Defect,No
+55,Male,Typical Angina,160,289,FALSE,Normal,145,Pain,0.8,Flat,One vessel colored,Reversible defect,No
+46,Male,Typical Angina,120,249,FALSE,Normal,144,No Pain,0.8,Downsloping,Normal,Reversible defect,No
+54,Male,Typical Angina,122,286,FALSE,Normal,116,Pain,3.2,Flat,Two vessels colored,Normal,No
+71,Female,Typical Angina,112,149,FALSE,Abnoramlity,125,No Pain,1.6,Flat,Normal,Normal,Yes
+43,Female,Typical Angina,132,341,TRUE,Normal,136,Pain,3,Flat,Normal,Reversible defect,No
+34,Female,Atypical Angina,118,210,FALSE,Abnoramlity,192,No Pain,0.7,Downsloping,Normal,Normal,Yes
+51,Male,Typical Angina,140,298,FALSE,Abnoramlity,122,Pain,4.2,Flat,Three vessels colored,Reversible defect,No
+52,Male,Typical Angina,128,204,TRUE,Abnoramlity,156,Pain,1,Flat,Normal,Unknown,No
+34,Female,Atypical Angina,118,210,FALSE,Abnoramlity,192,No Pain,0.7,Downsloping,Normal,Normal,Yes
+51,Female,Non Anginal Pain,140,308,FALSE,Normal,142,No Pain,1.5,Downsloping,One vessel colored,Normal,Yes
+54,Male,Typical Angina,124,266,FALSE,Normal,109,Pain,2.2,Flat,One vessel colored,Reversible defect,No
+50,Female,Atypical Angina,120,244,FALSE,Abnoramlity,162,No Pain,1.1,Downsloping,Normal,Normal,Yes
+58,Male,Non Anginal Pain,140,211,TRUE,Normal,165,No Pain,0,Downsloping,Normal,Normal,Yes
+60,Male,Non Anginal Pain,140,185,FALSE,Normal,155,No Pain,3,Flat,Normal,Normal,No
+67,Female,Typical Angina,106,223,FALSE,Abnoramlity,142,No Pain,0.3,Downsloping,Two vessels colored,Normal,Yes
+45,Male,Typical Angina,104,208,FALSE,Normal,148,Pain,3,Flat,Normal,Normal,Yes
+63,Female,Non Anginal Pain,135,252,FALSE,Normal,172,No Pain,0,Downsloping,Normal,Normal,Yes
+42,Female,Non Anginal Pain,120,209,FALSE,Abnoramlity,173,No Pain,0,Flat,Normal,Normal,Yes
+61,Female,Typical Angina,145,307,FALSE,Normal,146,Pain,1,Flat,Normal,Reversible defect,No
+44,Male,Non Anginal Pain,130,233,FALSE,Abnoramlity,179,Pain,0.4,Downsloping,Normal,Normal,Yes
+58,Female,Atypical Angina,136,319,TRUE,Normal,152,No Pain,0,Downsloping,Two vessels colored,Normal,No
+56,Male,Non Anginal Pain,130,256,TRUE,Normal,142,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+55,Female,Typical Angina,180,327,FALSE,Left ventricular hypertrophy,117,Pain,3.4,Flat,Normal,Normal,No
+44,Male,Typical Angina,120,169,FALSE,Abnoramlity,144,Pain,2.8,Upsloping,Normal,Fixed Defect,No
+50,Female,Atypical Angina,120,244,FALSE,Abnoramlity,162,No Pain,1.1,Downsloping,Normal,Normal,Yes
+57,Male,Typical Angina,130,131,FALSE,Abnoramlity,115,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+70,Male,Non Anginal Pain,160,269,FALSE,Abnoramlity,112,Pain,2.9,Flat,One vessel colored,Reversible defect,No
+50,Male,Non Anginal Pain,129,196,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+46,Male,Non Anginal Pain,150,231,FALSE,Abnoramlity,147,No Pain,3.6,Flat,Normal,Normal,No
+51,Male,Asymptomatic,125,213,FALSE,Normal,125,Pain,1.4,Downsloping,One vessel colored,Normal,Yes
+59,Male,Typical Angina,138,271,FALSE,Normal,182,No Pain,0,Downsloping,Normal,Normal,Yes
+64,Male,Typical Angina,128,263,FALSE,Abnoramlity,105,Pain,0.2,Flat,One vessel colored,Reversible defect,Yes
+57,Male,Non Anginal Pain,128,229,FALSE,Normal,150,No Pain,0.4,Flat,One vessel colored,Reversible defect,No
+65,Female,Non Anginal Pain,160,360,FALSE,Normal,151,No Pain,0.8,Downsloping,Normal,Normal,Yes
+54,Male,Non Anginal Pain,120,258,FALSE,Normal,147,No Pain,0.4,Flat,Normal,Reversible defect,Yes
+61,Female,Typical Angina,130,330,FALSE,Normal,169,No Pain,0,Downsloping,Normal,Normal,No
+46,Male,Typical Angina,120,249,FALSE,Normal,144,No Pain,0.8,Downsloping,Normal,Reversible defect,No
+55,Female,Atypical Angina,132,342,FALSE,Abnoramlity,166,No Pain,1.2,Downsloping,Normal,Normal,Yes
+42,Male,Typical Angina,140,226,FALSE,Abnoramlity,178,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Male,Atypical Angina,135,203,FALSE,Abnoramlity,132,No Pain,0,Flat,Normal,Fixed Defect,Yes
+66,Female,Typical Angina,178,228,TRUE,Abnoramlity,165,Pain,1,Flat,Two vessels colored,Reversible defect,No
+66,Female,Non Anginal Pain,146,278,FALSE,Normal,152,No Pain,0,Flat,One vessel colored,Normal,Yes
+60,Male,Typical Angina,117,230,TRUE,Abnoramlity,160,Pain,1.4,Downsloping,Two vessels colored,Reversible defect,No
+58,Female,Asymptomatic,150,283,TRUE,Normal,162,No Pain,1,Downsloping,Normal,Normal,Yes
+57,Female,Typical Angina,140,241,FALSE,Abnoramlity,123,Pain,0.2,Flat,Normal,Reversible defect,No
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+49,Male,Non Anginal Pain,120,188,FALSE,Abnoramlity,139,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+55,Male,Typical Angina,140,217,FALSE,Abnoramlity,111,Pain,5.6,Upsloping,Normal,Reversible defect,No
+55,Male,Typical Angina,140,217,FALSE,Abnoramlity,111,Pain,5.6,Upsloping,Normal,Reversible defect,No
+56,Male,Asymptomatic,120,193,FALSE,Normal,162,No Pain,1.9,Flat,Normal,Reversible defect,Yes
+48,Male,Atypical Angina,130,245,FALSE,Normal,180,No Pain,0.2,Flat,Normal,Normal,Yes
+67,Male,Non Anginal Pain,152,212,FALSE,Normal,150,No Pain,0.8,Flat,Normal,Reversible defect,No
+57,Male,Atypical Angina,154,232,FALSE,Normal,164,No Pain,0,Downsloping,One vessel colored,Normal,No
+29,Male,Atypical Angina,130,204,FALSE,Normal,202,No Pain,0,Downsloping,Normal,Normal,Yes
+66,Female,Non Anginal Pain,146,278,FALSE,Normal,152,No Pain,0,Flat,One vessel colored,Normal,Yes
+67,Male,Typical Angina,100,299,FALSE,Normal,125,Pain,0.9,Flat,Two vessels colored,Normal,No
+59,Male,Non Anginal Pain,150,212,TRUE,Abnoramlity,157,No Pain,1.6,Downsloping,Normal,Normal,Yes
+29,Male,Atypical Angina,130,204,FALSE,Normal,202,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Asymptomatic,170,288,FALSE,Normal,159,No Pain,0.2,Flat,Normal,Reversible defect,No
+53,Male,Non Anginal Pain,130,197,TRUE,Normal,152,No Pain,1.2,Upsloping,Normal,Normal,Yes
+42,Male,Typical Angina,136,315,FALSE,Abnoramlity,125,Pain,1.8,Flat,Normal,Fixed Defect,No
+37,Female,Non Anginal Pain,120,215,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+62,Female,Typical Angina,160,164,FALSE,Normal,145,No Pain,6.2,Upsloping,Three vessels colored,Reversible defect,No
+59,Male,Typical Angina,170,326,FALSE,Normal,140,Pain,3.4,Upsloping,Normal,Reversible defect,No
+61,Male,Typical Angina,140,207,FALSE,Normal,138,Pain,1.9,Downsloping,One vessel colored,Reversible defect,No
+56,Male,Typical Angina,125,249,TRUE,Normal,144,Pain,1.2,Flat,One vessel colored,Normal,No
+59,Male,Typical Angina,140,177,FALSE,Abnoramlity,162,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+48,Male,Typical Angina,130,256,TRUE,Normal,150,Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+47,Male,Non Anginal Pain,138,257,FALSE,Normal,156,No Pain,0,Downsloping,Normal,Normal,Yes
+48,Male,Non Anginal Pain,124,255,TRUE,Abnoramlity,175,No Pain,0,Downsloping,Two vessels colored,Normal,Yes
+63,Male,Typical Angina,140,187,FALSE,Normal,144,Pain,4,Downsloping,Two vessels colored,Reversible defect,No
+52,Male,Atypical Angina,134,201,FALSE,Abnoramlity,158,No Pain,0.8,Downsloping,One vessel colored,Normal,Yes
+52,Male,Atypical Angina,134,201,FALSE,Abnoramlity,158,No Pain,0.8,Downsloping,One vessel colored,Normal,Yes
+50,Male,Non Anginal Pain,140,233,FALSE,Abnoramlity,163,No Pain,0.6,Flat,One vessel colored,Reversible defect,No
+49,Male,Non Anginal Pain,118,149,FALSE,Normal,126,No Pain,0.8,Downsloping,Three vessels colored,Normal,No
+46,Male,Non Anginal Pain,150,231,FALSE,Abnoramlity,147,No Pain,3.6,Flat,Normal,Normal,No
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+37,Female,Non Anginal Pain,120,215,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+44,Male,Atypical Angina,120,220,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Non Anginal Pain,140,211,TRUE,Normal,165,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Female,Typical Angina,174,249,FALSE,Abnoramlity,143,Pain,0,Flat,Normal,Normal,No
+62,Female,Typical Angina,140,268,FALSE,Normal,160,No Pain,3.6,Upsloping,Two vessels colored,Normal,No
+68,Male,Typical Angina,144,193,TRUE,Abnoramlity,141,No Pain,3.4,Flat,Two vessels colored,Reversible defect,No
+54,Female,Non Anginal Pain,108,267,FALSE,Normal,167,No Pain,0,Downsloping,Normal,Normal,Yes
+62,Female,Typical Angina,124,209,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+63,Male,Typical Angina,140,187,FALSE,Normal,144,Pain,4,Downsloping,Two vessels colored,Reversible defect,No
+44,Male,Typical Angina,120,169,FALSE,Abnoramlity,144,Pain,2.8,Upsloping,Normal,Fixed Defect,No
+62,Male,Atypical Angina,128,208,TRUE,Normal,140,No Pain,0,Downsloping,Normal,Normal,Yes
+45,Female,Typical Angina,138,236,FALSE,Normal,152,Pain,0.2,Flat,Normal,Normal,Yes
+57,Female,Typical Angina,128,303,FALSE,Normal,159,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+53,Male,Typical Angina,123,282,FALSE,Abnoramlity,95,Pain,2,Flat,Two vessels colored,Reversible defect,No
+65,Male,Typical Angina,110,248,FALSE,Normal,158,No Pain,0.6,Downsloping,Two vessels colored,Fixed Defect,No
+76,Female,Non Anginal Pain,140,197,FALSE,Left ventricular hypertrophy,116,No Pain,1.1,Flat,Normal,Normal,Yes
+43,Female,Non Anginal Pain,122,213,FALSE,Abnoramlity,165,No Pain,0.2,Flat,Normal,Normal,Yes
+57,Male,Non Anginal Pain,150,126,TRUE,Abnoramlity,173,No Pain,0.2,Downsloping,One vessel colored,Reversible defect,Yes
+54,Male,Atypical Angina,108,309,FALSE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+47,Male,Non Anginal Pain,138,257,FALSE,Normal,156,No Pain,0,Downsloping,Normal,Normal,Yes
+52,Male,Asymptomatic,118,186,FALSE,Normal,190,No Pain,0,Flat,Normal,Fixed Defect,Yes
+47,Male,Typical Angina,110,275,FALSE,Normal,118,Pain,1,Flat,One vessel colored,Normal,No
+51,Male,Typical Angina,140,299,FALSE,Abnoramlity,173,Pain,1.6,Downsloping,Normal,Reversible defect,No
+62,Male,Atypical Angina,120,281,FALSE,Normal,103,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+40,Male,Typical Angina,152,223,FALSE,Abnoramlity,181,No Pain,0,Downsloping,Normal,Reversible defect,No
+54,Male,Typical Angina,110,206,FALSE,Normal,108,Pain,0,Flat,One vessel colored,Normal,No
+44,Male,Typical Angina,110,197,FALSE,Normal,177,No Pain,0,Downsloping,One vessel colored,Normal,No
+53,Male,Typical Angina,142,226,FALSE,Normal,111,Pain,0,Downsloping,Normal,Reversible defect,Yes
+48,Male,Typical Angina,130,256,TRUE,Normal,150,Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+57,Male,Typical Angina,110,335,FALSE,Abnoramlity,143,Pain,3,Flat,One vessel colored,Reversible defect,No
+59,Male,Non Anginal Pain,126,218,TRUE,Abnoramlity,134,No Pain,2.2,Flat,One vessel colored,Fixed Defect,No
+61,Female,Typical Angina,145,307,FALSE,Normal,146,Pain,1,Flat,Normal,Reversible defect,No
+63,Male,Typical Angina,130,254,FALSE,Normal,147,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+43,Male,Typical Angina,120,177,FALSE,Normal,120,Pain,2.5,Flat,Normal,Reversible defect,No
+29,Male,Atypical Angina,130,204,FALSE,Normal,202,No Pain,0,Downsloping,Normal,Normal,Yes
+42,Male,Atypical Angina,120,295,FALSE,Abnoramlity,162,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Atypical Angina,108,309,FALSE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+44,Male,Typical Angina,120,169,FALSE,Abnoramlity,144,Pain,2.8,Upsloping,Normal,Fixed Defect,No
+60,Male,Typical Angina,145,282,FALSE,Normal,142,Pain,2.8,Flat,Two vessels colored,Reversible defect,No
+65,Female,Non Anginal Pain,140,417,TRUE,Normal,157,No Pain,0.8,Downsloping,One vessel colored,Normal,Yes
+61,Male,Typical Angina,120,260,FALSE,Abnoramlity,140,Pain,3.6,Flat,One vessel colored,Reversible defect,No
+60,Female,Asymptomatic,150,240,FALSE,Abnoramlity,171,No Pain,0.9,Downsloping,Normal,Normal,Yes
+66,Male,Typical Angina,120,302,FALSE,Normal,151,No Pain,0.4,Flat,Normal,Normal,Yes
+53,Male,Non Anginal Pain,130,197,TRUE,Normal,152,No Pain,1.2,Upsloping,Normal,Normal,Yes
+52,Male,Non Anginal Pain,138,223,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+57,Male,Typical Angina,140,192,FALSE,Abnoramlity,148,No Pain,0.4,Flat,Normal,Fixed Defect,Yes
+60,Female,Asymptomatic,150,240,FALSE,Abnoramlity,171,No Pain,0.9,Downsloping,Normal,Normal,Yes
+51,Female,Non Anginal Pain,130,256,FALSE,Normal,149,No Pain,0.5,Downsloping,Normal,Normal,Yes
+41,Male,Atypical Angina,135,203,FALSE,Abnoramlity,132,No Pain,0,Flat,Normal,Fixed Defect,Yes
+50,Male,Non Anginal Pain,129,196,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Atypical Angina,108,309,FALSE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+58,Female,Typical Angina,170,225,TRUE,Normal,146,Pain,2.8,Flat,Two vessels colored,Fixed Defect,No
+55,Female,Atypical Angina,132,342,FALSE,Abnoramlity,166,No Pain,1.2,Downsloping,Normal,Normal,Yes
+64,Female,Typical Angina,180,325,FALSE,Abnoramlity,154,Pain,0,Downsloping,Normal,Normal,Yes
+47,Male,Non Anginal Pain,138,257,FALSE,Normal,156,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Male,Atypical Angina,110,235,FALSE,Abnoramlity,153,No Pain,0,Downsloping,Normal,Normal,Yes
+57,Male,Typical Angina,152,274,FALSE,Abnoramlity,88,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+63,Female,Typical Angina,124,197,FALSE,Abnoramlity,136,Pain,0,Flat,Normal,Normal,No
+61,Male,Asymptomatic,134,234,FALSE,Abnoramlity,145,No Pain,2.6,Flat,Two vessels colored,Normal,No
+34,Male,Asymptomatic,118,182,FALSE,Normal,174,No Pain,0,Downsloping,Normal,Normal,Yes
+47,Male,Typical Angina,112,204,FALSE,Abnoramlity,143,No Pain,0.1,Downsloping,Normal,Normal,Yes
+40,Male,Typical Angina,110,167,FALSE,Normal,114,Pain,2,Flat,Normal,Reversible defect,No
+51,Female,Non Anginal Pain,120,295,FALSE,Normal,157,No Pain,0.6,Downsloping,Normal,Normal,Yes
+41,Male,Typical Angina,110,172,FALSE,Normal,158,No Pain,0,Downsloping,Normal,Reversible defect,No
+52,Male,Asymptomatic,152,298,TRUE,Abnoramlity,178,No Pain,1.2,Flat,Normal,Reversible defect,Yes
+39,Male,Non Anginal Pain,140,321,FALSE,Normal,182,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Typical Angina,114,318,FALSE,Left ventricular hypertrophy,140,No Pain,4.4,Upsloping,Three vessels colored,Fixed Defect,No
+54,Male,Atypical Angina,192,283,FALSE,Normal,195,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+58,Male,Typical Angina,125,300,FALSE,Normal,171,No Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+54,Male,Non Anginal Pain,120,258,FALSE,Normal,147,No Pain,0.4,Flat,Normal,Reversible defect,Yes
+63,Male,Typical Angina,130,330,TRUE,Normal,132,Pain,1.8,Downsloping,Three vessels colored,Reversible defect,No
+54,Male,Atypical Angina,108,309,FALSE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+40,Male,Asymptomatic,140,199,FALSE,Abnoramlity,178,Pain,1.4,Downsloping,Normal,Reversible defect,Yes
+54,Male,Non Anginal Pain,120,258,FALSE,Normal,147,No Pain,0.4,Flat,Normal,Reversible defect,Yes
+67,Female,Non Anginal Pain,115,564,FALSE,Normal,160,No Pain,1.6,Flat,Normal,Reversible defect,Yes
+41,Male,Atypical Angina,120,157,FALSE,Abnoramlity,182,No Pain,0,Downsloping,Normal,Normal,Yes
+77,Male,Typical Angina,125,304,FALSE,Normal,162,Pain,0,Downsloping,Three vessels colored,Normal,No
+51,Male,Non Anginal Pain,100,222,FALSE,Abnoramlity,143,Pain,1.2,Flat,Normal,Normal,Yes
+77,Male,Typical Angina,125,304,FALSE,Normal,162,Pain,0,Downsloping,Three vessels colored,Normal,No
+48,Male,Typical Angina,124,274,FALSE,Normal,166,No Pain,0.5,Flat,Normal,Reversible defect,No
+56,Male,Typical Angina,125,249,TRUE,Normal,144,Pain,1.2,Flat,One vessel colored,Normal,No
+59,Male,Typical Angina,170,326,FALSE,Normal,140,Pain,3.4,Upsloping,Normal,Reversible defect,No
+56,Male,Typical Angina,132,184,FALSE,Normal,105,Pain,2.1,Flat,One vessel colored,Fixed Defect,No
+57,Female,Typical Angina,120,354,FALSE,Abnoramlity,163,Pain,0.6,Downsloping,Normal,Normal,Yes
+43,Male,Non Anginal Pain,130,315,FALSE,Abnoramlity,162,No Pain,1.9,Downsloping,One vessel colored,Normal,Yes
+45,Female,Atypical Angina,112,160,FALSE,Abnoramlity,138,No Pain,0,Flat,Normal,Normal,Yes
+43,Male,Typical Angina,150,247,FALSE,Abnoramlity,171,No Pain,1.5,Downsloping,Normal,Normal,Yes
+56,Male,Typical Angina,130,283,TRUE,Normal,103,Pain,1.6,Upsloping,Normal,Reversible defect,No
+56,Male,Atypical Angina,120,240,FALSE,Abnoramlity,169,No Pain,0,Upsloping,Normal,Normal,Yes
+39,Female,Non Anginal Pain,94,199,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Typical Angina,110,239,FALSE,Abnoramlity,126,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+56,Female,Typical Angina,200,288,TRUE,Normal,133,Pain,4,Upsloping,Two vessels colored,Reversible defect,No
+56,Male,Typical Angina,130,283,TRUE,Normal,103,Pain,1.6,Upsloping,Normal,Reversible defect,No
+64,Male,Typical Angina,120,246,FALSE,Normal,96,Pain,2.2,Upsloping,One vessel colored,Normal,No
+44,Male,Typical Angina,110,197,FALSE,Normal,177,No Pain,0,Downsloping,One vessel colored,Normal,No
+56,Female,Typical Angina,134,409,FALSE,Normal,150,Pain,1.9,Flat,Two vessels colored,Reversible defect,No
+63,Male,Typical Angina,140,187,FALSE,Normal,144,Pain,4,Downsloping,Two vessels colored,Reversible defect,No
+64,Male,Asymptomatic,110,211,FALSE,Normal,144,Pain,1.8,Flat,Normal,Normal,Yes
+60,Male,Typical Angina,140,293,FALSE,Normal,170,No Pain,1.2,Flat,Two vessels colored,Reversible defect,No
+42,Male,Non Anginal Pain,130,180,FALSE,Abnoramlity,150,No Pain,0,Downsloping,Normal,Normal,Yes
+45,Male,Atypical Angina,128,308,FALSE,Normal,170,No Pain,0,Downsloping,Normal,Normal,Yes
+57,Male,Typical Angina,165,289,TRUE,Normal,124,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+40,Male,Typical Angina,110,167,FALSE,Normal,114,Pain,2,Flat,Normal,Reversible defect,No
+56,Male,Typical Angina,125,249,TRUE,Normal,144,Pain,1.2,Flat,One vessel colored,Normal,No
+63,Male,Typical Angina,130,254,FALSE,Normal,147,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+64,Male,Non Anginal Pain,125,309,FALSE,Abnoramlity,131,Pain,1.8,Flat,Normal,Reversible defect,No
+41,Male,Non Anginal Pain,112,250,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+56,Male,Atypical Angina,130,221,FALSE,Normal,163,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+67,Female,Non Anginal Pain,115,564,FALSE,Normal,160,No Pain,1.6,Flat,Normal,Reversible defect,Yes
+69,Male,Asymptomatic,160,234,TRUE,Normal,131,No Pain,0.1,Flat,One vessel colored,Normal,Yes
+67,Male,Typical Angina,160,286,FALSE,Normal,108,Pain,1.5,Flat,Three vessels colored,Normal,No
+59,Male,Non Anginal Pain,150,212,TRUE,Abnoramlity,157,No Pain,1.6,Downsloping,Normal,Normal,Yes
+58,Male,Typical Angina,100,234,FALSE,Abnoramlity,156,No Pain,0.1,Downsloping,One vessel colored,Reversible defect,No
+45,Male,Typical Angina,115,260,FALSE,Normal,185,No Pain,0,Downsloping,Normal,Normal,Yes
+60,Female,Non Anginal Pain,102,318,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+50,Male,Typical Angina,144,200,FALSE,Normal,126,Pain,0.9,Flat,Normal,Reversible defect,No
+62,Female,Typical Angina,124,209,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+34,Male,Asymptomatic,118,182,FALSE,Normal,174,No Pain,0,Downsloping,Normal,Normal,Yes
+52,Male,Asymptomatic,152,298,TRUE,Abnoramlity,178,No Pain,1.2,Flat,Normal,Reversible defect,Yes
+64,Male,Asymptomatic,170,227,FALSE,Normal,155,No Pain,0.6,Flat,Normal,Reversible defect,Yes
+66,Female,Non Anginal Pain,146,278,FALSE,Normal,152,No Pain,0,Flat,One vessel colored,Normal,Yes
+42,Male,Asymptomatic,148,244,FALSE,Normal,178,No Pain,0.8,Downsloping,Two vessels colored,Normal,Yes
+59,Male,Non Anginal Pain,126,218,TRUE,Abnoramlity,134,No Pain,2.2,Flat,One vessel colored,Fixed Defect,No
+41,Male,Non Anginal Pain,112,250,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+62,Male,Atypical Angina,120,281,FALSE,Normal,103,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+42,Male,Non Anginal Pain,120,240,TRUE,Abnoramlity,194,No Pain,0.8,Upsloping,Normal,Reversible defect,Yes
+67,Male,Typical Angina,100,299,FALSE,Normal,125,Pain,0.9,Flat,Two vessels colored,Normal,No
+50,Male,Typical Angina,150,243,FALSE,Normal,128,No Pain,2.6,Flat,Normal,Reversible defect,No
+43,Male,Non Anginal Pain,130,315,FALSE,Abnoramlity,162,No Pain,1.9,Downsloping,One vessel colored,Normal,Yes
+45,Male,Atypical Angina,128,308,FALSE,Normal,170,No Pain,0,Downsloping,Normal,Normal,Yes
+49,Male,Atypical Angina,130,266,FALSE,Abnoramlity,171,No Pain,0.6,Downsloping,Normal,Normal,Yes
+65,Male,Typical Angina,135,254,FALSE,Normal,127,No Pain,2.8,Flat,One vessel colored,Reversible defect,No
+41,Male,Atypical Angina,120,157,FALSE,Abnoramlity,182,No Pain,0,Downsloping,Normal,Normal,Yes
+46,Male,Typical Angina,140,311,FALSE,Abnoramlity,120,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+54,Male,Typical Angina,122,286,FALSE,Normal,116,Pain,3.2,Flat,Two vessels colored,Normal,No
+57,Female,Atypical Angina,130,236,FALSE,Normal,174,No Pain,0,Flat,One vessel colored,Normal,No
+63,Male,Typical Angina,130,254,FALSE,Normal,147,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+64,Male,Asymptomatic,110,211,FALSE,Normal,144,Pain,1.8,Flat,Normal,Normal,Yes
+39,Female,Non Anginal Pain,94,199,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+51,Male,Typical Angina,140,261,FALSE,Normal,186,Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Non Anginal Pain,150,232,FALSE,Normal,165,No Pain,1.6,Downsloping,Normal,Reversible defect,Yes
+49,Male,Non Anginal Pain,118,149,FALSE,Normal,126,No Pain,0.8,Downsloping,Three vessels colored,Normal,No
+44,Female,Non Anginal Pain,118,242,FALSE,Abnoramlity,149,No Pain,0.3,Flat,One vessel colored,Normal,Yes
+52,Male,Atypical Angina,128,205,TRUE,Abnoramlity,184,No Pain,0,Downsloping,Normal,Normal,Yes
+66,Female,Typical Angina,178,228,TRUE,Abnoramlity,165,Pain,1,Flat,Two vessels colored,Reversible defect,No
+58,Male,Typical Angina,125,300,FALSE,Normal,171,No Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+56,Male,Atypical Angina,120,236,FALSE,Abnoramlity,178,No Pain,0.8,Downsloping,Normal,Normal,Yes
+60,Male,Typical Angina,125,258,FALSE,Normal,141,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+41,Female,Atypical Angina,126,306,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+49,Female,Typical Angina,130,269,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+64,Male,Asymptomatic,170,227,FALSE,Normal,155,No Pain,0.6,Flat,Normal,Reversible defect,Yes
+49,Male,Non Anginal Pain,118,149,FALSE,Normal,126,No Pain,0.8,Downsloping,Three vessels colored,Normal,No
+57,Male,Atypical Angina,124,261,FALSE,Abnoramlity,141,No Pain,0.3,Downsloping,Normal,Reversible defect,No
+60,Male,Typical Angina,117,230,TRUE,Abnoramlity,160,Pain,1.4,Downsloping,Two vessels colored,Reversible defect,No
+62,Female,Typical Angina,150,244,FALSE,Abnoramlity,154,Pain,1.4,Flat,Normal,Normal,No
+54,Female,Atypical Angina,132,288,TRUE,Normal,159,Pain,0,Downsloping,One vessel colored,Normal,Yes
+67,Male,Non Anginal Pain,152,212,FALSE,Normal,150,No Pain,0.8,Flat,Normal,Reversible defect,No
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+60,Male,Non Anginal Pain,140,185,FALSE,Normal,155,No Pain,3,Flat,Normal,Normal,No
+51,Male,Non Anginal Pain,125,245,TRUE,Normal,166,No Pain,2.4,Flat,Normal,Normal,Yes
+44,Male,Atypical Angina,130,219,FALSE,Normal,188,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Atypical Angina,192,283,FALSE,Normal,195,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+46,Male,Typical Angina,140,311,FALSE,Abnoramlity,120,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+39,Female,Non Anginal Pain,138,220,FALSE,Abnoramlity,152,No Pain,0,Flat,Normal,Normal,Yes
+42,Male,Non Anginal Pain,130,180,FALSE,Abnoramlity,150,No Pain,0,Downsloping,Normal,Normal,Yes
+47,Male,Typical Angina,110,275,FALSE,Normal,118,Pain,1,Flat,One vessel colored,Normal,No
+45,Female,Atypical Angina,112,160,FALSE,Abnoramlity,138,No Pain,0,Flat,Normal,Normal,Yes
+55,Male,Typical Angina,132,353,FALSE,Abnoramlity,132,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+57,Male,Typical Angina,165,289,TRUE,Normal,124,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+35,Male,Typical Angina,120,198,FALSE,Abnoramlity,130,Pain,1.6,Flat,Normal,Reversible defect,No
+62,Female,Typical Angina,140,394,FALSE,Normal,157,No Pain,1.2,Flat,Normal,Normal,Yes
+35,Female,Typical Angina,138,183,FALSE,Abnoramlity,182,No Pain,1.4,Downsloping,Normal,Normal,Yes
+64,Female,Typical Angina,180,325,FALSE,Abnoramlity,154,Pain,0,Downsloping,Normal,Normal,Yes
+38,Male,Asymptomatic,120,231,FALSE,Abnoramlity,182,Pain,3.8,Flat,Normal,Reversible defect,No
+66,Male,Typical Angina,120,302,FALSE,Normal,151,No Pain,0.4,Flat,Normal,Normal,Yes
+44,Male,Non Anginal Pain,120,226,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Non Anginal Pain,150,232,FALSE,Normal,165,No Pain,1.6,Downsloping,Normal,Reversible defect,Yes
+48,Male,Typical Angina,122,222,FALSE,Normal,186,No Pain,0,Downsloping,Normal,Normal,Yes
+55,Female,Atypical Angina,132,342,FALSE,Abnoramlity,166,No Pain,1.2,Downsloping,Normal,Normal,Yes
+58,Female,Typical Angina,170,225,TRUE,Normal,146,Pain,2.8,Flat,Two vessels colored,Fixed Defect,No
+45,Male,Typical Angina,104,208,FALSE,Normal,148,Pain,3,Flat,Normal,Normal,Yes
+53,Male,Typical Angina,123,282,FALSE,Abnoramlity,95,Pain,2,Flat,Two vessels colored,Reversible defect,No
+67,Male,Typical Angina,120,237,FALSE,Abnoramlity,71,No Pain,1,Flat,Normal,Normal,No
+58,Male,Non Anginal Pain,132,224,FALSE,Normal,173,No Pain,3.2,Downsloping,Two vessels colored,Reversible defect,No
+71,Female,Non Anginal Pain,110,265,TRUE,Normal,130,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+43,Male,Typical Angina,110,211,FALSE,Abnoramlity,161,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+44,Male,Atypical Angina,120,263,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+39,Female,Non Anginal Pain,138,220,FALSE,Abnoramlity,152,No Pain,0,Flat,Normal,Normal,Yes
+54,Male,Typical Angina,110,206,FALSE,Normal,108,Pain,0,Flat,One vessel colored,Normal,No
+66,Male,Typical Angina,160,228,FALSE,Normal,138,No Pain,2.3,Downsloping,Normal,Fixed Defect,Yes
+56,Male,Typical Angina,130,283,TRUE,Normal,103,Pain,1.6,Upsloping,Normal,Reversible defect,No
+57,Male,Typical Angina,132,207,FALSE,Abnoramlity,168,Pain,0,Downsloping,Normal,Reversible defect,Yes
+44,Male,Atypical Angina,130,219,FALSE,Normal,188,No Pain,0,Downsloping,Normal,Normal,Yes
+55,Male,Typical Angina,160,289,FALSE,Normal,145,Pain,0.8,Flat,One vessel colored,Reversible defect,No
+41,Female,Atypical Angina,105,198,FALSE,Abnoramlity,168,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+45,Female,Atypical Angina,130,234,FALSE,Normal,175,No Pain,0.6,Flat,Normal,Normal,Yes
+35,Male,Atypical Angina,122,192,FALSE,Abnoramlity,174,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Female,Atypical Angina,130,204,FALSE,Normal,172,No Pain,1.4,Downsloping,Normal,Normal,Yes
+64,Male,Asymptomatic,110,211,FALSE,Normal,144,Pain,1.8,Flat,Normal,Normal,Yes
+58,Male,Non Anginal Pain,132,224,FALSE,Normal,173,No Pain,3.2,Downsloping,Two vessels colored,Reversible defect,No
+71,Female,Non Anginal Pain,110,265,TRUE,Normal,130,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+64,Female,Non Anginal Pain,140,313,FALSE,Abnoramlity,133,No Pain,0.2,Downsloping,Normal,Reversible defect,Yes
+71,Female,Atypical Angina,160,302,FALSE,Abnoramlity,162,No Pain,0.4,Downsloping,Two vessels colored,Normal,Yes
+58,Female,Non Anginal Pain,120,340,FALSE,Abnoramlity,172,No Pain,0,Downsloping,Normal,Normal,Yes
+40,Male,Typical Angina,152,223,FALSE,Abnoramlity,181,No Pain,0,Downsloping,Normal,Reversible defect,No
+52,Male,Non Anginal Pain,138,223,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+58,Male,Typical Angina,128,259,FALSE,Normal,130,Pain,3,Flat,Two vessels colored,Reversible defect,No
+61,Male,Non Anginal Pain,150,243,TRUE,Abnoramlity,137,Pain,1,Flat,Normal,Normal,Yes
+59,Male,Non Anginal Pain,150,212,TRUE,Abnoramlity,157,No Pain,1.6,Downsloping,Normal,Normal,Yes
+56,Female,Typical Angina,200,288,TRUE,Normal,133,Pain,4,Upsloping,Two vessels colored,Reversible defect,No
+67,Male,Typical Angina,100,299,FALSE,Normal,125,Pain,0.9,Flat,Two vessels colored,Normal,No
+67,Male,Typical Angina,120,237,FALSE,Abnoramlity,71,No Pain,1,Flat,Normal,Normal,No
+58,Male,Typical Angina,150,270,FALSE,Normal,111,Pain,0.8,Downsloping,Normal,Reversible defect,No
+35,Male,Atypical Angina,122,192,FALSE,Abnoramlity,174,No Pain,0,Downsloping,Normal,Normal,Yes
+52,Male,Atypical Angina,120,325,FALSE,Abnoramlity,172,No Pain,0.2,Downsloping,Normal,Normal,Yes
+46,Female,Atypical Angina,105,204,FALSE,Abnoramlity,172,No Pain,0,Downsloping,Normal,Normal,Yes
+51,Male,Non Anginal Pain,94,227,FALSE,Abnoramlity,154,Pain,0,Downsloping,One vessel colored,Reversible defect,Yes
+55,Female,Atypical Angina,132,342,FALSE,Abnoramlity,166,No Pain,1.2,Downsloping,Normal,Normal,Yes
+60,Male,Typical Angina,145,282,FALSE,Normal,142,Pain,2.8,Flat,Two vessels colored,Reversible defect,No
+52,Female,Non Anginal Pain,136,196,FALSE,Normal,169,No Pain,0.1,Flat,Normal,Normal,Yes
+62,Male,Typical Angina,120,267,FALSE,Abnoramlity,99,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+44,Female,Non Anginal Pain,118,242,FALSE,Abnoramlity,149,No Pain,0.3,Flat,One vessel colored,Normal,Yes
+44,Male,Atypical Angina,120,220,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Non Anginal Pain,126,218,TRUE,Abnoramlity,134,No Pain,2.2,Flat,One vessel colored,Fixed Defect,No
+56,Female,Atypical Angina,140,294,FALSE,Normal,153,No Pain,1.3,Flat,Normal,Normal,Yes
+61,Male,Typical Angina,120,260,FALSE,Abnoramlity,140,Pain,3.6,Flat,One vessel colored,Reversible defect,No
+48,Male,Typical Angina,130,256,TRUE,Normal,150,Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+70,Male,Non Anginal Pain,160,269,FALSE,Abnoramlity,112,Pain,2.9,Flat,One vessel colored,Reversible defect,No
+74,Female,Atypical Angina,120,269,FALSE,Normal,121,Pain,0.2,Downsloping,One vessel colored,Normal,Yes
+40,Male,Asymptomatic,140,199,FALSE,Abnoramlity,178,Pain,1.4,Downsloping,Normal,Reversible defect,Yes
+42,Male,Asymptomatic,148,244,FALSE,Normal,178,No Pain,0.8,Downsloping,Two vessels colored,Normal,Yes
+64,Female,Non Anginal Pain,140,313,FALSE,Abnoramlity,133,No Pain,0.2,Downsloping,Normal,Reversible defect,Yes
+63,Female,Non Anginal Pain,135,252,FALSE,Normal,172,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Typical Angina,140,177,FALSE,Abnoramlity,162,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+53,Female,Non Anginal Pain,128,216,FALSE,Normal,115,No Pain,0,Downsloping,Normal,Unknown,Yes
+53,Female,Typical Angina,130,264,FALSE,Normal,143,No Pain,0.4,Flat,Normal,Normal,Yes
+48,Female,Non Anginal Pain,130,275,FALSE,Abnoramlity,139,No Pain,0.2,Downsloping,Normal,Normal,Yes
+45,Male,Typical Angina,142,309,FALSE,Normal,147,Pain,0,Flat,Three vessels colored,Reversible defect,No
+66,Male,Atypical Angina,160,246,FALSE,Abnoramlity,120,Pain,0,Flat,Three vessels colored,Fixed Defect,No
+48,Male,Atypical Angina,130,245,FALSE,Normal,180,No Pain,0.2,Flat,Normal,Normal,Yes
+56,Female,Atypical Angina,140,294,FALSE,Normal,153,No Pain,1.3,Flat,Normal,Normal,Yes
+54,Male,Atypical Angina,192,283,FALSE,Normal,195,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+57,Male,Typical Angina,150,276,FALSE,Normal,112,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+70,Male,Typical Angina,130,322,FALSE,Normal,109,No Pain,2.4,Flat,Three vessels colored,Normal,No
+53,Female,Non Anginal Pain,128,216,FALSE,Normal,115,No Pain,0,Downsloping,Normal,Unknown,Yes
+37,Female,Non Anginal Pain,120,215,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+63,Female,Typical Angina,108,269,FALSE,Abnoramlity,169,Pain,1.8,Flat,Two vessels colored,Normal,No
+37,Male,Non Anginal Pain,130,250,FALSE,Abnoramlity,187,No Pain,3.5,Upsloping,Normal,Normal,Yes
+54,Female,Non Anginal Pain,110,214,FALSE,Abnoramlity,158,No Pain,1.6,Flat,Normal,Normal,Yes
+60,Male,Typical Angina,130,206,FALSE,Normal,132,Pain,2.4,Flat,Two vessels colored,Reversible defect,No
+58,Male,Typical Angina,150,270,FALSE,Normal,111,Pain,0.8,Downsloping,Normal,Reversible defect,No
+57,Male,Non Anginal Pain,150,126,TRUE,Abnoramlity,173,No Pain,0.2,Downsloping,One vessel colored,Reversible defect,Yes
+54,Male,Non Anginal Pain,125,273,FALSE,Normal,152,No Pain,0.5,Upsloping,One vessel colored,Normal,Yes
+56,Male,Non Anginal Pain,130,256,TRUE,Normal,142,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+60,Male,Typical Angina,130,253,FALSE,Abnoramlity,144,Pain,1.4,Downsloping,One vessel colored,Reversible defect,No
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+44,Male,Non Anginal Pain,120,226,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Normal,Normal,Yes
+65,Female,Non Anginal Pain,155,269,FALSE,Abnoramlity,148,No Pain,0.8,Downsloping,Normal,Normal,Yes
+52,Male,Non Anginal Pain,172,199,TRUE,Abnoramlity,162,No Pain,0.5,Downsloping,Normal,Reversible defect,Yes
+41,Male,Atypical Angina,120,157,FALSE,Abnoramlity,182,No Pain,0,Downsloping,Normal,Normal,Yes
+66,Male,Atypical Angina,160,246,FALSE,Abnoramlity,120,Pain,0,Flat,Three vessels colored,Fixed Defect,No
+50,Male,Typical Angina,150,243,FALSE,Normal,128,No Pain,2.6,Flat,Normal,Reversible defect,No
+54,Female,Non Anginal Pain,108,267,FALSE,Normal,167,No Pain,0,Downsloping,Normal,Normal,Yes
+43,Male,Typical Angina,132,247,TRUE,Normal,143,Pain,0.1,Flat,Four vessel colored,Reversible defect,No
+62,Female,Non Anginal Pain,130,263,FALSE,Abnoramlity,97,No Pain,1.2,Flat,One vessel colored,Reversible defect,No
+66,Male,Typical Angina,120,302,FALSE,Normal,151,No Pain,0.4,Flat,Normal,Normal,Yes
+50,Male,Typical Angina,144,200,FALSE,Normal,126,Pain,0.9,Flat,Normal,Reversible defect,No
+57,Male,Typical Angina,110,335,FALSE,Abnoramlity,143,Pain,3,Flat,One vessel colored,Reversible defect,No
+57,Male,Typical Angina,110,201,FALSE,Abnoramlity,126,Pain,1.5,Flat,Normal,Fixed Defect,Yes
+57,Male,Atypical Angina,124,261,FALSE,Abnoramlity,141,No Pain,0.3,Downsloping,Normal,Reversible defect,No
+46,Female,Typical Angina,138,243,FALSE,Normal,152,Pain,0,Flat,Normal,Normal,Yes
+59,Male,Typical Angina,164,176,TRUE,Normal,90,No Pain,1,Flat,Two vessels colored,Fixed Defect,No
+67,Male,Typical Angina,160,286,FALSE,Normal,108,Pain,1.5,Flat,Three vessels colored,Normal,No
+59,Male,Asymptomatic,134,204,FALSE,Abnoramlity,162,No Pain,0.8,Downsloping,Two vessels colored,Normal,No
+53,Female,Non Anginal Pain,128,216,FALSE,Normal,115,No Pain,0,Downsloping,Normal,Unknown,Yes
+48,Male,Typical Angina,122,222,FALSE,Normal,186,No Pain,0,Downsloping,Normal,Normal,Yes
+62,Male,Non Anginal Pain,130,231,FALSE,Abnoramlity,146,No Pain,1.8,Flat,Three vessels colored,Reversible defect,Yes
+43,Female,Non Anginal Pain,122,213,FALSE,Abnoramlity,165,No Pain,0.2,Flat,Normal,Normal,Yes
+53,Male,Non Anginal Pain,130,246,TRUE,Normal,173,No Pain,0,Downsloping,Three vessels colored,Normal,Yes
+57,Female,Atypical Angina,130,236,FALSE,Normal,174,No Pain,0,Flat,One vessel colored,Normal,No
+53,Male,Non Anginal Pain,130,246,TRUE,Normal,173,No Pain,0,Downsloping,Three vessels colored,Normal,Yes
+58,Male,Non Anginal Pain,112,230,FALSE,Normal,165,No Pain,2.5,Flat,One vessel colored,Reversible defect,No
+48,Male,Atypical Angina,110,229,FALSE,Abnoramlity,168,No Pain,1,Upsloping,Normal,Reversible defect,No
+58,Male,Non Anginal Pain,105,240,FALSE,Normal,154,Pain,0.6,Flat,Normal,Reversible defect,Yes
+51,Male,Non Anginal Pain,110,175,FALSE,Abnoramlity,123,No Pain,0.6,Downsloping,Normal,Normal,Yes
+43,Female,Typical Angina,132,341,TRUE,Normal,136,Pain,3,Flat,Normal,Reversible defect,No
+55,Male,Typical Angina,132,353,FALSE,Abnoramlity,132,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+54,Female,Non Anginal Pain,110,214,FALSE,Abnoramlity,158,No Pain,1.6,Flat,Normal,Normal,Yes
+58,Male,Atypical Angina,120,284,FALSE,Normal,160,No Pain,1.8,Flat,Normal,Normal,No
+46,Female,Non Anginal Pain,142,177,FALSE,Normal,160,Pain,1.4,Upsloping,Normal,Normal,Yes
+66,Male,Typical Angina,160,228,FALSE,Normal,138,No Pain,2.3,Downsloping,Normal,Fixed Defect,Yes
+59,Male,Atypical Angina,140,221,FALSE,Abnoramlity,164,Pain,0,Downsloping,Normal,Normal,Yes
+64,Female,Typical Angina,130,303,FALSE,Abnoramlity,122,No Pain,2,Flat,Two vessels colored,Normal,Yes
+67,Male,Typical Angina,120,237,FALSE,Abnoramlity,71,No Pain,1,Flat,Normal,Normal,No
+52,Male,Asymptomatic,118,186,FALSE,Normal,190,No Pain,0,Flat,Normal,Fixed Defect,Yes
+58,Male,Typical Angina,146,218,FALSE,Abnoramlity,105,No Pain,2,Flat,One vessel colored,Reversible defect,No
+58,Male,Non Anginal Pain,132,224,FALSE,Normal,173,No Pain,3.2,Downsloping,Two vessels colored,Reversible defect,No
+59,Male,Typical Angina,110,239,FALSE,Normal,142,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+58,Male,Typical Angina,150,270,FALSE,Normal,111,Pain,0.8,Downsloping,Normal,Reversible defect,No
+35,Male,Typical Angina,126,282,FALSE,Normal,156,Pain,0,Downsloping,Normal,Reversible defect,No
+51,Male,Non Anginal Pain,110,175,FALSE,Abnoramlity,123,No Pain,0.6,Downsloping,Normal,Normal,Yes
+42,Female,Non Anginal Pain,120,209,FALSE,Abnoramlity,173,No Pain,0,Flat,Normal,Normal,Yes
+77,Male,Typical Angina,125,304,FALSE,Normal,162,Pain,0,Downsloping,Three vessels colored,Normal,No
+64,Male,Typical Angina,120,246,FALSE,Normal,96,Pain,2.2,Upsloping,One vessel colored,Normal,No
+63,Male,Asymptomatic,145,233,TRUE,Normal,150,No Pain,2.3,Upsloping,Normal,Fixed Defect,Yes
+58,Female,Atypical Angina,136,319,TRUE,Normal,152,No Pain,0,Downsloping,Two vessels colored,Normal,No
+45,Male,Asymptomatic,110,264,FALSE,Abnoramlity,132,No Pain,1.2,Flat,Normal,Reversible defect,No
+51,Male,Non Anginal Pain,110,175,FALSE,Abnoramlity,123,No Pain,0.6,Downsloping,Normal,Normal,Yes
+62,Female,Typical Angina,160,164,FALSE,Normal,145,No Pain,6.2,Upsloping,Three vessels colored,Reversible defect,No
+63,Male,Typical Angina,130,330,TRUE,Normal,132,Pain,1.8,Downsloping,Three vessels colored,Reversible defect,No
+66,Female,Non Anginal Pain,146,278,FALSE,Normal,152,No Pain,0,Flat,One vessel colored,Normal,Yes
+68,Male,Non Anginal Pain,180,274,TRUE,Normal,150,Pain,1.6,Flat,Normal,Reversible defect,No
+40,Male,Typical Angina,110,167,FALSE,Normal,114,Pain,2,Flat,Normal,Reversible defect,No
+66,Male,Typical Angina,160,228,FALSE,Normal,138,No Pain,2.3,Downsloping,Normal,Fixed Defect,Yes
+63,Male,Asymptomatic,145,233,TRUE,Normal,150,No Pain,2.3,Upsloping,Normal,Fixed Defect,Yes
+49,Male,Non Anginal Pain,120,188,FALSE,Abnoramlity,139,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+71,Female,Typical Angina,112,149,FALSE,Abnoramlity,125,No Pain,1.6,Flat,Normal,Normal,Yes
+70,Male,Atypical Angina,156,245,FALSE,Normal,143,No Pain,0,Downsloping,Normal,Normal,Yes
+46,Female,Atypical Angina,105,204,FALSE,Abnoramlity,172,No Pain,0,Downsloping,Normal,Normal,Yes
+61,Male,Typical Angina,140,207,FALSE,Normal,138,Pain,1.9,Downsloping,One vessel colored,Reversible defect,No
+56,Male,Non Anginal Pain,130,256,TRUE,Normal,142,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+58,Male,Non Anginal Pain,140,211,TRUE,Normal,165,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Typical Angina,100,234,FALSE,Abnoramlity,156,No Pain,0.1,Downsloping,One vessel colored,Reversible defect,No
+46,Female,Typical Angina,138,243,FALSE,Normal,152,Pain,0,Flat,Normal,Normal,Yes
+46,Male,Non Anginal Pain,150,231,FALSE,Abnoramlity,147,No Pain,3.6,Flat,Normal,Normal,No
+41,Female,Atypical Angina,105,198,FALSE,Abnoramlity,168,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+56,Male,Typical Angina,125,249,TRUE,Normal,144,Pain,1.2,Flat,One vessel colored,Normal,No
+57,Male,Typical Angina,150,276,FALSE,Normal,112,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+70,Male,Typical Angina,130,322,FALSE,Normal,109,No Pain,2.4,Flat,Three vessels colored,Normal,No
+59,Male,Asymptomatic,170,288,FALSE,Normal,159,No Pain,0.2,Flat,Normal,Reversible defect,No
+41,Female,Atypical Angina,130,204,FALSE,Normal,172,No Pain,1.4,Downsloping,Normal,Normal,Yes
+54,Male,Non Anginal Pain,125,273,FALSE,Normal,152,No Pain,0.5,Upsloping,One vessel colored,Normal,Yes
+52,Male,Non Anginal Pain,138,223,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+62,Female,Typical Angina,124,209,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+65,Female,Non Anginal Pain,160,360,FALSE,Normal,151,No Pain,0.8,Downsloping,Normal,Normal,Yes
+57,Female,Typical Angina,128,303,FALSE,Normal,159,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+42,Female,Typical Angina,102,265,FALSE,Normal,122,No Pain,0.6,Flat,Normal,Normal,Yes
+57,Female,Typical Angina,120,354,FALSE,Abnoramlity,163,Pain,0.6,Downsloping,Normal,Normal,Yes
+58,Female,Atypical Angina,136,319,TRUE,Normal,152,No Pain,0,Downsloping,Two vessels colored,Normal,No
+45,Male,Typical Angina,142,309,FALSE,Normal,147,Pain,0,Flat,Three vessels colored,Reversible defect,No
+51,Female,Typical Angina,130,305,FALSE,Abnoramlity,142,Pain,1.2,Flat,Normal,Reversible defect,No
+54,Female,Non Anginal Pain,160,201,FALSE,Abnoramlity,163,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+57,Male,Non Anginal Pain,150,168,FALSE,Abnoramlity,174,No Pain,1.6,Downsloping,Normal,Normal,Yes
+43,Male,Typical Angina,132,247,TRUE,Normal,143,Pain,0.1,Flat,Four vessel colored,Reversible defect,No
+47,Male,Non Anginal Pain,108,243,FALSE,Abnoramlity,152,No Pain,0,Downsloping,Normal,Normal,No
+67,Male,Non Anginal Pain,152,212,FALSE,Normal,150,No Pain,0.8,Flat,Normal,Reversible defect,No
+65,Female,Typical Angina,150,225,FALSE,Normal,114,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+60,Female,Non Anginal Pain,102,318,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+37,Male,Non Anginal Pain,130,250,FALSE,Abnoramlity,187,No Pain,3.5,Upsloping,Normal,Normal,Yes
+41,Female,Non Anginal Pain,112,268,FALSE,Normal,172,Pain,0,Downsloping,Normal,Normal,Yes
+57,Female,Typical Angina,120,354,FALSE,Abnoramlity,163,Pain,0.6,Downsloping,Normal,Normal,Yes
+59,Female,Typical Angina,174,249,FALSE,Abnoramlity,143,Pain,0,Flat,Normal,Normal,No
+67,Male,Typical Angina,120,229,FALSE,Normal,129,Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+47,Male,Non Anginal Pain,130,253,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Atypical Angina,120,284,FALSE,Normal,160,No Pain,1.8,Flat,Normal,Normal,No
+62,Female,Typical Angina,150,244,FALSE,Abnoramlity,154,Pain,1.4,Flat,Normal,Normal,No
+60,Male,Typical Angina,140,293,FALSE,Normal,170,No Pain,1.2,Flat,Two vessels colored,Reversible defect,No
+57,Male,Typical Angina,152,274,FALSE,Abnoramlity,88,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+57,Male,Non Anginal Pain,150,168,FALSE,Abnoramlity,174,No Pain,1.6,Downsloping,Normal,Normal,Yes
+47,Male,Non Anginal Pain,130,253,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+52,Male,Atypical Angina,128,205,TRUE,Abnoramlity,184,No Pain,0,Downsloping,Normal,Normal,Yes
+53,Male,Non Anginal Pain,130,246,TRUE,Normal,173,No Pain,0,Downsloping,Three vessels colored,Normal,Yes
+55,Male,Typical Angina,160,289,FALSE,Normal,145,Pain,0.8,Flat,One vessel colored,Reversible defect,No
+51,Female,Non Anginal Pain,120,295,FALSE,Normal,157,No Pain,0.6,Downsloping,Normal,Normal,Yes
+52,Male,Typical Angina,112,230,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,No
+63,Female,Typical Angina,150,407,FALSE,Normal,154,No Pain,4,Flat,Three vessels colored,Reversible defect,No
+49,Female,Atypical Angina,134,271,FALSE,Abnoramlity,162,No Pain,0,Flat,Normal,Normal,Yes
+66,Female,Typical Angina,178,228,TRUE,Abnoramlity,165,Pain,1,Flat,Two vessels colored,Reversible defect,No
+49,Female,Atypical Angina,134,271,FALSE,Abnoramlity,162,No Pain,0,Flat,Normal,Normal,Yes
+65,Female,Typical Angina,150,225,FALSE,Normal,114,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+69,Male,Asymptomatic,160,234,TRUE,Normal,131,No Pain,0.1,Flat,One vessel colored,Normal,Yes
+47,Male,Non Anginal Pain,108,243,FALSE,Abnoramlity,152,No Pain,0,Downsloping,Normal,Normal,No
+39,Female,Non Anginal Pain,138,220,FALSE,Abnoramlity,152,No Pain,0,Flat,Normal,Normal,Yes
+43,Male,Typical Angina,150,247,FALSE,Abnoramlity,171,No Pain,1.5,Downsloping,Normal,Normal,Yes
+51,Male,Typical Angina,140,261,FALSE,Normal,186,Pain,0,Downsloping,Normal,Normal,Yes
+69,Male,Non Anginal Pain,140,254,FALSE,Normal,146,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+48,Male,Non Anginal Pain,124,255,TRUE,Abnoramlity,175,No Pain,0,Downsloping,Two vessels colored,Normal,Yes
+52,Male,Asymptomatic,118,186,FALSE,Normal,190,No Pain,0,Flat,Normal,Fixed Defect,Yes
+43,Male,Typical Angina,110,211,FALSE,Abnoramlity,161,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+67,Female,Non Anginal Pain,115,564,FALSE,Normal,160,No Pain,1.6,Flat,Normal,Reversible defect,Yes
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+44,Male,Atypical Angina,130,219,FALSE,Normal,188,No Pain,0,Downsloping,Normal,Normal,Yes
+47,Male,Typical Angina,110,275,FALSE,Normal,118,Pain,1,Flat,One vessel colored,Normal,No
+61,Male,Non Anginal Pain,150,243,TRUE,Abnoramlity,137,Pain,1,Flat,Normal,Normal,Yes
+67,Male,Typical Angina,160,286,FALSE,Normal,108,Pain,1.5,Flat,Three vessels colored,Normal,No
+60,Female,Asymptomatic,150,240,FALSE,Abnoramlity,171,No Pain,0.9,Downsloping,Normal,Normal,Yes
+64,Female,Non Anginal Pain,140,313,FALSE,Abnoramlity,133,No Pain,0.2,Downsloping,Normal,Reversible defect,Yes
+58,Female,Typical Angina,130,197,FALSE,Abnoramlity,131,No Pain,0.6,Flat,Normal,Normal,Yes
+41,Male,Non Anginal Pain,130,214,FALSE,Normal,168,No Pain,2,Flat,Normal,Normal,Yes
+48,Male,Atypical Angina,110,229,FALSE,Abnoramlity,168,No Pain,1,Upsloping,Normal,Reversible defect,No
+57,Male,Non Anginal Pain,150,126,TRUE,Abnoramlity,173,No Pain,0.2,Downsloping,One vessel colored,Reversible defect,Yes
+57,Male,Typical Angina,165,289,TRUE,Normal,124,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+57,Male,Non Anginal Pain,128,229,FALSE,Normal,150,No Pain,0.4,Flat,One vessel colored,Reversible defect,No
+39,Male,Non Anginal Pain,140,321,FALSE,Normal,182,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Typical Angina,128,216,FALSE,Normal,131,Pain,2.2,Flat,Three vessels colored,Reversible defect,No
+51,Female,Typical Angina,130,305,FALSE,Abnoramlity,142,Pain,1.2,Flat,Normal,Reversible defect,No
+63,Female,Typical Angina,150,407,FALSE,Normal,154,No Pain,4,Flat,Three vessels colored,Reversible defect,No
+51,Male,Typical Angina,140,298,FALSE,Abnoramlity,122,Pain,4.2,Flat,Three vessels colored,Reversible defect,No
+35,Male,Atypical Angina,122,192,FALSE,Abnoramlity,174,No Pain,0,Downsloping,Normal,Normal,Yes
+65,Male,Typical Angina,110,248,FALSE,Normal,158,No Pain,0.6,Downsloping,Two vessels colored,Fixed Defect,No
+62,Male,Atypical Angina,120,281,FALSE,Normal,103,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+41,Male,Typical Angina,110,172,FALSE,Normal,158,No Pain,0,Downsloping,Normal,Reversible defect,No
+65,Male,Typical Angina,135,254,FALSE,Normal,127,No Pain,2.8,Flat,One vessel colored,Reversible defect,No
+54,Female,Atypical Angina,132,288,TRUE,Normal,159,Pain,0,Downsloping,One vessel colored,Normal,Yes
+61,Male,Non Anginal Pain,150,243,TRUE,Abnoramlity,137,Pain,1,Flat,Normal,Normal,Yes
+57,Female,Typical Angina,128,303,FALSE,Normal,159,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+57,Male,Non Anginal Pain,150,168,FALSE,Abnoramlity,174,No Pain,1.6,Downsloping,Normal,Normal,Yes
+64,Male,Non Anginal Pain,125,309,FALSE,Abnoramlity,131,Pain,1.8,Flat,Normal,Reversible defect,No
+55,Male,Typical Angina,132,353,FALSE,Abnoramlity,132,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+51,Male,Non Anginal Pain,125,245,TRUE,Normal,166,No Pain,2.4,Flat,Normal,Normal,Yes
+59,Male,Typical Angina,135,234,FALSE,Abnoramlity,161,No Pain,0.5,Flat,Normal,Reversible defect,Yes
+68,Male,Non Anginal Pain,180,274,TRUE,Normal,150,Pain,1.6,Flat,Normal,Reversible defect,No
+57,Male,Atypical Angina,154,232,FALSE,Normal,164,No Pain,0,Downsloping,One vessel colored,Normal,No
+54,Male,Typical Angina,140,239,FALSE,Abnoramlity,160,No Pain,1.2,Downsloping,Normal,Normal,Yes
+46,Female,Non Anginal Pain,142,177,FALSE,Normal,160,Pain,1.4,Upsloping,Normal,Normal,Yes
+71,Female,Typical Angina,112,149,FALSE,Abnoramlity,125,No Pain,1.6,Flat,Normal,Normal,Yes
+35,Female,Typical Angina,138,183,FALSE,Abnoramlity,182,No Pain,1.4,Downsloping,Normal,Normal,Yes
+46,Female,Non Anginal Pain,142,177,FALSE,Normal,160,Pain,1.4,Upsloping,Normal,Normal,Yes
+45,Female,Atypical Angina,130,234,FALSE,Normal,175,No Pain,0.6,Flat,Normal,Normal,Yes
+47,Male,Non Anginal Pain,108,243,FALSE,Abnoramlity,152,No Pain,0,Downsloping,Normal,Normal,No
+44,Female,Non Anginal Pain,118,242,FALSE,Abnoramlity,149,No Pain,0.3,Flat,One vessel colored,Normal,Yes
+61,Male,Typical Angina,120,260,FALSE,Abnoramlity,140,Pain,3.6,Flat,One vessel colored,Reversible defect,No
+41,Female,Atypical Angina,130,204,FALSE,Normal,172,No Pain,1.4,Downsloping,Normal,Normal,Yes
+56,Female,Typical Angina,200,288,TRUE,Normal,133,Pain,4,Upsloping,Two vessels colored,Reversible defect,No
+55,Female,Typical Angina,180,327,FALSE,Left ventricular hypertrophy,117,Pain,3.4,Flat,Normal,Normal,No
+54,Female,Atypical Angina,132,288,TRUE,Normal,159,Pain,0,Downsloping,One vessel colored,Normal,Yes
+43,Male,Typical Angina,120,177,FALSE,Normal,120,Pain,2.5,Flat,Normal,Reversible defect,No
+44,Male,Typical Angina,112,290,FALSE,Normal,153,No Pain,0,Downsloping,One vessel colored,Normal,No
+54,Male,Typical Angina,110,206,FALSE,Normal,108,Pain,0,Flat,One vessel colored,Normal,No
+44,Male,Atypical Angina,120,220,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+49,Male,Non Anginal Pain,120,188,FALSE,Abnoramlity,139,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+60,Male,Typical Angina,130,206,FALSE,Normal,132,Pain,2.4,Flat,Two vessels colored,Reversible defect,No
+41,Female,Atypical Angina,105,198,FALSE,Abnoramlity,168,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+49,Male,Non Anginal Pain,120,188,FALSE,Abnoramlity,139,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+61,Male,Typical Angina,148,203,FALSE,Abnoramlity,161,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+59,Male,Typical Angina,140,177,FALSE,Abnoramlity,162,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+58,Male,Atypical Angina,125,220,FALSE,Abnoramlity,144,No Pain,0.4,Flat,Four vessel colored,Reversible defect,Yes
+67,Female,Non Anginal Pain,152,277,FALSE,Abnoramlity,172,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+61,Male,Typical Angina,148,203,FALSE,Abnoramlity,161,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+58,Male,Non Anginal Pain,112,230,FALSE,Normal,165,No Pain,2.5,Flat,One vessel colored,Reversible defect,No
+51,Female,Non Anginal Pain,130,256,FALSE,Normal,149,No Pain,0.5,Downsloping,Normal,Normal,Yes
+62,Female,Typical Angina,160,164,FALSE,Normal,145,No Pain,6.2,Upsloping,Three vessels colored,Reversible defect,No
+62,Female,Typical Angina,124,209,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Asymptomatic,178,270,FALSE,Normal,145,No Pain,4.2,Upsloping,Normal,Reversible defect,Yes
+69,Male,Asymptomatic,160,234,TRUE,Normal,131,No Pain,0.1,Flat,One vessel colored,Normal,Yes
+60,Female,Typical Angina,150,258,FALSE,Normal,157,No Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+65,Female,Non Anginal Pain,155,269,FALSE,Abnoramlity,148,No Pain,0.8,Downsloping,Normal,Normal,Yes
+63,Female,Typical Angina,124,197,FALSE,Abnoramlity,136,Pain,0,Flat,Normal,Normal,No
+53,Female,Typical Angina,138,234,FALSE,Normal,160,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Female,Non Anginal Pain,108,267,FALSE,Normal,167,No Pain,0,Downsloping,Normal,Normal,Yes
+76,Female,Non Anginal Pain,140,197,FALSE,Left ventricular hypertrophy,116,No Pain,1.1,Flat,Normal,Normal,Yes
+50,Female,Non Anginal Pain,120,219,FALSE,Abnoramlity,158,No Pain,1.6,Flat,Normal,Normal,Yes
+52,Male,Atypical Angina,120,325,FALSE,Abnoramlity,172,No Pain,0.2,Downsloping,Normal,Normal,Yes
+46,Male,Typical Angina,120,249,FALSE,Normal,144,No Pain,0.8,Downsloping,Normal,Reversible defect,No
+64,Male,Asymptomatic,170,227,FALSE,Normal,155,No Pain,0.6,Flat,Normal,Reversible defect,Yes
+58,Male,Typical Angina,128,259,FALSE,Normal,130,Pain,3,Flat,Two vessels colored,Reversible defect,No
+44,Male,Non Anginal Pain,140,235,FALSE,Normal,180,No Pain,0,Downsloping,Normal,Normal,Yes
+62,Female,Typical Angina,140,394,FALSE,Normal,157,No Pain,1.2,Flat,Normal,Normal,Yes
+59,Male,Asymptomatic,134,204,FALSE,Abnoramlity,162,No Pain,0.8,Downsloping,Two vessels colored,Normal,No
+54,Male,Non Anginal Pain,125,273,FALSE,Normal,152,No Pain,0.5,Upsloping,One vessel colored,Normal,Yes
+48,Male,Atypical Angina,110,229,FALSE,Abnoramlity,168,No Pain,1,Upsloping,Normal,Reversible defect,No
+70,Male,Typical Angina,130,322,FALSE,Normal,109,No Pain,2.4,Flat,Three vessels colored,Normal,No
+67,Female,Typical Angina,106,223,FALSE,Abnoramlity,142,No Pain,0.3,Downsloping,Two vessels colored,Normal,Yes
+51,Female,Non Anginal Pain,120,295,FALSE,Normal,157,No Pain,0.6,Downsloping,Normal,Normal,Yes
+68,Male,Non Anginal Pain,118,277,FALSE,Abnoramlity,151,No Pain,1,Downsloping,One vessel colored,Reversible defect,Yes
+69,Male,Non Anginal Pain,140,254,FALSE,Normal,146,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+54,Male,Typical Angina,122,286,FALSE,Normal,116,Pain,3.2,Flat,Two vessels colored,Normal,No
+43,Female,Typical Angina,132,341,TRUE,Normal,136,Pain,3,Flat,Normal,Reversible defect,No
+53,Male,Non Anginal Pain,130,197,TRUE,Normal,152,No Pain,1.2,Upsloping,Normal,Normal,Yes
+58,Male,Typical Angina,100,234,FALSE,Abnoramlity,156,No Pain,0.1,Downsloping,One vessel colored,Reversible defect,No
+67,Male,Typical Angina,125,254,TRUE,Abnoramlity,163,No Pain,0.2,Flat,Two vessels colored,Reversible defect,No
+59,Male,Typical Angina,140,177,FALSE,Abnoramlity,162,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+48,Male,Typical Angina,122,222,FALSE,Normal,186,No Pain,0,Downsloping,Normal,Normal,Yes
+39,Female,Non Anginal Pain,94,199,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+67,Male,Typical Angina,120,237,FALSE,Abnoramlity,71,No Pain,1,Flat,Normal,Normal,No
+58,Female,Typical Angina,130,197,FALSE,Abnoramlity,131,No Pain,0.6,Flat,Normal,Normal,Yes
+65,Female,Non Anginal Pain,155,269,FALSE,Abnoramlity,148,No Pain,0.8,Downsloping,Normal,Normal,Yes
+42,Female,Non Anginal Pain,120,209,FALSE,Abnoramlity,173,No Pain,0,Flat,Normal,Normal,Yes
+44,Male,Typical Angina,112,290,FALSE,Normal,153,No Pain,0,Downsloping,One vessel colored,Normal,No
+56,Male,Typical Angina,132,184,FALSE,Normal,105,Pain,2.1,Flat,One vessel colored,Fixed Defect,No
+53,Female,Typical Angina,138,234,FALSE,Normal,160,No Pain,0,Downsloping,Normal,Normal,Yes
+50,Female,Typical Angina,110,254,FALSE,Normal,159,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Male,Non Anginal Pain,130,214,FALSE,Normal,168,No Pain,2,Flat,Normal,Normal,Yes
+54,Female,Non Anginal Pain,160,201,FALSE,Abnoramlity,163,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+42,Male,Non Anginal Pain,120,240,TRUE,Abnoramlity,194,No Pain,0.8,Upsloping,Normal,Reversible defect,Yes
+54,Female,Non Anginal Pain,135,304,TRUE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+60,Male,Typical Angina,145,282,FALSE,Normal,142,Pain,2.8,Flat,Two vessels colored,Reversible defect,No
+34,Male,Asymptomatic,118,182,FALSE,Normal,174,No Pain,0,Downsloping,Normal,Normal,Yes
+44,Male,Typical Angina,112,290,FALSE,Normal,153,No Pain,0,Downsloping,One vessel colored,Normal,No
+60,Male,Typical Angina,125,258,FALSE,Normal,141,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+43,Male,Typical Angina,150,247,FALSE,Abnoramlity,171,No Pain,1.5,Downsloping,Normal,Normal,Yes
+52,Male,Asymptomatic,152,298,TRUE,Abnoramlity,178,No Pain,1.2,Flat,Normal,Reversible defect,Yes
+70,Male,Typical Angina,130,322,FALSE,Normal,109,No Pain,2.4,Flat,Three vessels colored,Normal,No
+62,Female,Typical Angina,140,394,FALSE,Normal,157,No Pain,1.2,Flat,Normal,Normal,Yes
+58,Male,Typical Angina,146,218,FALSE,Abnoramlity,105,No Pain,2,Flat,One vessel colored,Reversible defect,No
+46,Male,Atypical Angina,101,197,TRUE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+44,Male,Non Anginal Pain,140,235,FALSE,Normal,180,No Pain,0,Downsloping,Normal,Normal,Yes
+55,Male,Atypical Angina,130,262,FALSE,Abnoramlity,155,No Pain,0,Downsloping,Normal,Normal,Yes
+43,Male,Typical Angina,120,177,FALSE,Normal,120,Pain,2.5,Flat,Normal,Reversible defect,No
+55,Male,Typical Angina,132,353,FALSE,Abnoramlity,132,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+40,Male,Asymptomatic,140,199,FALSE,Abnoramlity,178,Pain,1.4,Downsloping,Normal,Reversible defect,Yes
+64,Male,Non Anginal Pain,125,309,FALSE,Abnoramlity,131,Pain,1.8,Flat,Normal,Reversible defect,No
+59,Male,Typical Angina,164,176,TRUE,Normal,90,No Pain,1,Flat,Two vessels colored,Fixed Defect,No
+61,Female,Typical Angina,145,307,FALSE,Normal,146,Pain,1,Flat,Normal,Reversible defect,No
+54,Male,Typical Angina,122,286,FALSE,Normal,116,Pain,3.2,Flat,Two vessels colored,Normal,No
+74,Female,Atypical Angina,120,269,FALSE,Normal,121,Pain,0.2,Downsloping,One vessel colored,Normal,Yes
+63,Female,Typical Angina,108,269,FALSE,Abnoramlity,169,Pain,1.8,Flat,Two vessels colored,Normal,No
+70,Male,Non Anginal Pain,160,269,FALSE,Abnoramlity,112,Pain,2.9,Flat,One vessel colored,Reversible defect,No
+63,Female,Typical Angina,108,269,FALSE,Abnoramlity,169,Pain,1.8,Flat,Two vessels colored,Normal,No
+64,Male,Typical Angina,145,212,FALSE,Normal,132,No Pain,2,Flat,Two vessels colored,Fixed Defect,No
+61,Male,Typical Angina,148,203,FALSE,Abnoramlity,161,No Pain,0,Downsloping,One vessel colored,Reversible defect,No
+59,Male,Atypical Angina,140,221,FALSE,Abnoramlity,164,Pain,0,Downsloping,Normal,Normal,Yes
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+58,Male,Atypical Angina,120,284,FALSE,Normal,160,No Pain,1.8,Flat,Normal,Normal,No
+63,Female,Atypical Angina,140,195,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Two vessels colored,Normal,Yes
+62,Female,Non Anginal Pain,130,263,FALSE,Abnoramlity,97,No Pain,1.2,Flat,One vessel colored,Reversible defect,No
+46,Male,Typical Angina,140,311,FALSE,Abnoramlity,120,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+58,Female,Non Anginal Pain,120,340,FALSE,Abnoramlity,172,No Pain,0,Downsloping,Normal,Normal,Yes
+63,Female,Atypical Angina,140,195,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Two vessels colored,Normal,Yes
+47,Male,Non Anginal Pain,130,253,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+71,Female,Non Anginal Pain,110,265,TRUE,Normal,130,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+66,Male,Typical Angina,112,212,FALSE,Normal,132,Pain,0.1,Downsloping,One vessel colored,Normal,No
+42,Male,Typical Angina,136,315,FALSE,Abnoramlity,125,Pain,1.8,Flat,Normal,Fixed Defect,No
+64,Male,Typical Angina,145,212,FALSE,Normal,132,No Pain,2,Flat,Two vessels colored,Fixed Defect,No
+55,Female,Typical Angina,180,327,FALSE,Left ventricular hypertrophy,117,Pain,3.4,Flat,Normal,Normal,No
+43,Female,Typical Angina,132,341,TRUE,Normal,136,Pain,3,Flat,Normal,Reversible defect,No
+55,Female,Typical Angina,128,205,FALSE,Left ventricular hypertrophy,130,Pain,2,Flat,One vessel colored,Reversible defect,No
+58,Female,Typical Angina,170,225,TRUE,Normal,146,Pain,2.8,Flat,Two vessels colored,Fixed Defect,No
+55,Male,Typical Angina,140,217,FALSE,Abnoramlity,111,Pain,5.6,Upsloping,Normal,Reversible defect,No
+51,Female,Typical Angina,130,305,FALSE,Abnoramlity,142,Pain,1.2,Flat,Normal,Reversible defect,No
+50,Female,Non Anginal Pain,120,219,FALSE,Abnoramlity,158,No Pain,1.6,Flat,Normal,Normal,Yes
+43,Male,Typical Angina,115,303,FALSE,Abnoramlity,181,No Pain,1.2,Flat,Normal,Normal,Yes
+41,Female,Atypical Angina,126,306,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+49,Male,Atypical Angina,130,266,FALSE,Abnoramlity,171,No Pain,0.6,Downsloping,Normal,Normal,Yes
+65,Male,Typical Angina,110,248,FALSE,Normal,158,No Pain,0.6,Downsloping,Two vessels colored,Fixed Defect,No
+57,Male,Typical Angina,152,274,FALSE,Abnoramlity,88,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+48,Male,Typical Angina,130,256,TRUE,Normal,150,Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+62,Female,Typical Angina,138,294,TRUE,Abnoramlity,106,No Pain,1.9,Flat,Three vessels colored,Normal,No
+61,Male,Asymptomatic,134,234,FALSE,Abnoramlity,145,No Pain,2.6,Flat,Two vessels colored,Normal,No
+59,Male,Asymptomatic,178,270,FALSE,Normal,145,No Pain,4.2,Upsloping,Normal,Reversible defect,Yes
+69,Male,Non Anginal Pain,140,254,FALSE,Normal,146,No Pain,2,Flat,Three vessels colored,Reversible defect,No
+58,Male,Non Anginal Pain,132,224,FALSE,Normal,173,No Pain,3.2,Downsloping,Two vessels colored,Reversible defect,No
+38,Male,Asymptomatic,120,231,FALSE,Abnoramlity,182,Pain,3.8,Flat,Normal,Reversible defect,No
+69,Female,Asymptomatic,140,239,FALSE,Abnoramlity,151,No Pain,1.8,Downsloping,Two vessels colored,Normal,Yes
+65,Male,Asymptomatic,138,282,TRUE,Normal,174,No Pain,1.4,Flat,One vessel colored,Normal,No
+45,Male,Asymptomatic,110,264,FALSE,Abnoramlity,132,No Pain,1.2,Flat,Normal,Reversible defect,No
+49,Male,Atypical Angina,130,266,FALSE,Abnoramlity,171,No Pain,0.6,Downsloping,Normal,Normal,Yes
+45,Female,Atypical Angina,130,234,FALSE,Normal,175,No Pain,0.6,Flat,Normal,Normal,Yes
+61,Male,Typical Angina,138,166,FALSE,Normal,125,Pain,3.6,Flat,One vessel colored,Normal,No
+52,Male,Typical Angina,125,212,FALSE,Abnoramlity,168,No Pain,1,Downsloping,Two vessels colored,Reversible defect,No
+53,Female,Typical Angina,130,264,FALSE,Normal,143,No Pain,0.4,Flat,Normal,Normal,Yes
+59,Female,Typical Angina,174,249,FALSE,Abnoramlity,143,Pain,0,Flat,Normal,Normal,No
+58,Female,Non Anginal Pain,120,340,FALSE,Abnoramlity,172,No Pain,0,Downsloping,Normal,Normal,Yes
+65,Male,Asymptomatic,138,282,TRUE,Normal,174,No Pain,1.4,Flat,One vessel colored,Normal,No
+58,Female,Typical Angina,130,197,FALSE,Abnoramlity,131,No Pain,0.6,Flat,Normal,Normal,Yes
+46,Female,Typical Angina,138,243,FALSE,Normal,152,Pain,0,Flat,Normal,Normal,Yes
+56,Female,Typical Angina,134,409,FALSE,Normal,150,Pain,1.9,Flat,Two vessels colored,Reversible defect,No
+64,Male,Typical Angina,128,263,FALSE,Abnoramlity,105,Pain,0.2,Flat,One vessel colored,Reversible defect,Yes
+65,Male,Typical Angina,120,177,FALSE,Abnoramlity,140,No Pain,0.4,Downsloping,Normal,Reversible defect,Yes
+44,Male,Non Anginal Pain,120,226,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Normal,Normal,Yes
+50,Male,Typical Angina,150,243,FALSE,Normal,128,No Pain,2.6,Flat,Normal,Reversible defect,No
+47,Male,Non Anginal Pain,108,243,FALSE,Abnoramlity,152,No Pain,0,Downsloping,Normal,Normal,No
+64,Female,Typical Angina,130,303,FALSE,Abnoramlity,122,No Pain,2,Flat,Two vessels colored,Normal,Yes
+71,Female,Typical Angina,112,149,FALSE,Abnoramlity,125,No Pain,1.6,Flat,Normal,Normal,Yes
+45,Female,Atypical Angina,130,234,FALSE,Normal,175,No Pain,0.6,Flat,Normal,Normal,Yes
+62,Male,Typical Angina,120,267,FALSE,Abnoramlity,99,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+41,Male,Atypical Angina,120,157,FALSE,Abnoramlity,182,No Pain,0,Downsloping,Normal,Normal,Yes
+66,Female,Asymptomatic,150,226,FALSE,Abnoramlity,114,No Pain,2.6,Upsloping,Normal,Normal,Yes
+56,Male,Typical Angina,130,283,TRUE,Normal,103,Pain,1.6,Upsloping,Normal,Reversible defect,No
+41,Female,Atypical Angina,126,306,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Male,Atypical Angina,110,235,FALSE,Abnoramlity,153,No Pain,0,Downsloping,Normal,Normal,Yes
+57,Female,Atypical Angina,130,236,FALSE,Normal,174,No Pain,0,Flat,One vessel colored,Normal,No
+39,Female,Non Anginal Pain,138,220,FALSE,Abnoramlity,152,No Pain,0,Flat,Normal,Normal,Yes
+64,Male,Non Anginal Pain,125,309,FALSE,Abnoramlity,131,Pain,1.8,Flat,Normal,Reversible defect,No
+59,Male,Typical Angina,138,271,FALSE,Normal,182,No Pain,0,Downsloping,Normal,Normal,Yes
+61,Male,Typical Angina,138,166,FALSE,Normal,125,Pain,3.6,Flat,One vessel colored,Normal,No
+58,Male,Typical Angina,114,318,FALSE,Left ventricular hypertrophy,140,No Pain,4.4,Upsloping,Three vessels colored,Fixed Defect,No
+47,Male,Typical Angina,112,204,FALSE,Abnoramlity,143,No Pain,0.1,Downsloping,Normal,Normal,Yes
+58,Female,Typical Angina,100,248,FALSE,Normal,122,No Pain,1,Flat,Normal,Normal,Yes
+66,Female,Asymptomatic,150,226,FALSE,Abnoramlity,114,No Pain,2.6,Upsloping,Normal,Normal,Yes
+65,Female,Non Anginal Pain,140,417,TRUE,Normal,157,No Pain,0.8,Downsloping,One vessel colored,Normal,Yes
+35,Male,Atypical Angina,122,192,FALSE,Abnoramlity,174,No Pain,0,Downsloping,Normal,Normal,Yes
+57,Male,Atypical Angina,124,261,FALSE,Abnoramlity,141,No Pain,0.3,Downsloping,Normal,Reversible defect,No
+29,Male,Atypical Angina,130,204,FALSE,Normal,202,No Pain,0,Downsloping,Normal,Normal,Yes
+66,Male,Atypical Angina,160,246,FALSE,Abnoramlity,120,Pain,0,Flat,Three vessels colored,Fixed Defect,No
+61,Female,Typical Angina,130,330,FALSE,Normal,169,No Pain,0,Downsloping,Normal,Normal,No
+52,Male,Typical Angina,125,212,FALSE,Abnoramlity,168,No Pain,1,Downsloping,Two vessels colored,Reversible defect,No
+68,Male,Non Anginal Pain,118,277,FALSE,Abnoramlity,151,No Pain,1,Downsloping,One vessel colored,Reversible defect,Yes
+54,Male,Non Anginal Pain,120,258,FALSE,Normal,147,No Pain,0.4,Flat,Normal,Reversible defect,Yes
+63,Male,Typical Angina,130,330,TRUE,Normal,132,Pain,1.8,Downsloping,Three vessels colored,Reversible defect,No
+58,Male,Typical Angina,100,234,FALSE,Abnoramlity,156,No Pain,0.1,Downsloping,One vessel colored,Reversible defect,No
+60,Male,Typical Angina,130,253,FALSE,Abnoramlity,144,Pain,1.4,Downsloping,One vessel colored,Reversible defect,No
+63,Male,Typical Angina,130,254,FALSE,Normal,147,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+41,Female,Non Anginal Pain,112,268,FALSE,Normal,172,Pain,0,Downsloping,Normal,Normal,Yes
+68,Male,Non Anginal Pain,180,274,TRUE,Normal,150,Pain,1.6,Flat,Normal,Reversible defect,No
+42,Male,Atypical Angina,120,295,FALSE,Abnoramlity,162,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Typical Angina,170,326,FALSE,Normal,140,Pain,3.4,Upsloping,Normal,Reversible defect,No
+59,Male,Typical Angina,164,176,TRUE,Normal,90,No Pain,1,Flat,Two vessels colored,Fixed Defect,No
+43,Male,Typical Angina,120,177,FALSE,Normal,120,Pain,2.5,Flat,Normal,Reversible defect,No
+60,Male,Non Anginal Pain,140,185,FALSE,Normal,155,No Pain,3,Flat,Normal,Normal,No
+63,Female,Typical Angina,150,407,FALSE,Normal,154,No Pain,4,Flat,Three vessels colored,Reversible defect,No
+52,Male,Typical Angina,128,204,TRUE,Abnoramlity,156,Pain,1,Flat,Normal,Unknown,No
+58,Male,Typical Angina,125,300,FALSE,Normal,171,No Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+56,Female,Typical Angina,200,288,TRUE,Normal,133,Pain,4,Upsloping,Two vessels colored,Reversible defect,No
+54,Female,Non Anginal Pain,135,304,TRUE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Non Anginal Pain,105,240,FALSE,Normal,154,Pain,0.6,Flat,Normal,Reversible defect,Yes
+55,Female,Atypical Angina,135,250,FALSE,Normal,161,No Pain,1.4,Flat,Normal,Normal,Yes
+53,Male,Typical Angina,140,203,TRUE,Normal,155,Pain,3.1,Upsloping,Normal,Reversible defect,No
+63,Female,Atypical Angina,140,195,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Two vessels colored,Normal,Yes
+39,Male,Typical Angina,118,219,FALSE,Abnoramlity,140,No Pain,1.2,Flat,Normal,Reversible defect,No
+35,Male,Typical Angina,126,282,FALSE,Normal,156,Pain,0,Downsloping,Normal,Reversible defect,No
+50,Female,Non Anginal Pain,120,219,FALSE,Abnoramlity,158,No Pain,1.6,Flat,Normal,Normal,Yes
+67,Male,Non Anginal Pain,152,212,FALSE,Normal,150,No Pain,0.8,Flat,Normal,Reversible defect,No
+66,Male,Typical Angina,112,212,FALSE,Normal,132,Pain,0.1,Downsloping,One vessel colored,Normal,No
+35,Male,Typical Angina,126,282,FALSE,Normal,156,Pain,0,Downsloping,Normal,Reversible defect,No
+41,Male,Non Anginal Pain,130,214,FALSE,Normal,168,No Pain,2,Flat,Normal,Normal,Yes
+35,Male,Typical Angina,120,198,FALSE,Abnoramlity,130,Pain,1.6,Flat,Normal,Reversible defect,No
+71,Female,Atypical Angina,160,302,FALSE,Abnoramlity,162,No Pain,0.4,Downsloping,Two vessels colored,Normal,Yes
+57,Male,Typical Angina,110,201,FALSE,Abnoramlity,126,Pain,1.5,Flat,Normal,Fixed Defect,Yes
+51,Male,Non Anginal Pain,94,227,FALSE,Abnoramlity,154,Pain,0,Downsloping,One vessel colored,Reversible defect,Yes
+58,Male,Typical Angina,128,216,FALSE,Normal,131,Pain,2.2,Flat,Three vessels colored,Reversible defect,No
+57,Male,Non Anginal Pain,128,229,FALSE,Normal,150,No Pain,0.4,Flat,One vessel colored,Reversible defect,No
+56,Female,Atypical Angina,140,294,FALSE,Normal,153,No Pain,1.3,Flat,Normal,Normal,Yes
+60,Female,Non Anginal Pain,120,178,TRUE,Abnoramlity,96,No Pain,0,Downsloping,Normal,Normal,Yes
+45,Male,Asymptomatic,110,264,FALSE,Abnoramlity,132,No Pain,1.2,Flat,Normal,Reversible defect,No
+56,Male,Atypical Angina,130,221,FALSE,Normal,163,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+35,Male,Typical Angina,120,198,FALSE,Abnoramlity,130,Pain,1.6,Flat,Normal,Reversible defect,No
+45,Female,Atypical Angina,112,160,FALSE,Abnoramlity,138,No Pain,0,Flat,Normal,Normal,Yes
+66,Female,Asymptomatic,150,226,FALSE,Abnoramlity,114,No Pain,2.6,Upsloping,Normal,Normal,Yes
+51,Male,Asymptomatic,125,213,FALSE,Normal,125,Pain,1.4,Downsloping,One vessel colored,Normal,Yes
+70,Male,Atypical Angina,156,245,FALSE,Normal,143,No Pain,0,Downsloping,Normal,Normal,Yes
+55,Female,Typical Angina,128,205,FALSE,Left ventricular hypertrophy,130,Pain,2,Flat,One vessel colored,Reversible defect,No
+56,Male,Non Anginal Pain,130,256,TRUE,Normal,142,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+55,Female,Atypical Angina,135,250,FALSE,Normal,161,No Pain,1.4,Flat,Normal,Normal,Yes
+52,Male,Typical Angina,108,233,TRUE,Abnoramlity,147,No Pain,0.1,Downsloping,Three vessels colored,Reversible defect,Yes
+64,Male,Non Anginal Pain,140,335,FALSE,Abnoramlity,158,No Pain,0,Downsloping,Normal,Normal,No
+45,Male,Typical Angina,115,260,FALSE,Normal,185,No Pain,0,Downsloping,Normal,Normal,Yes
+67,Female,Non Anginal Pain,152,277,FALSE,Abnoramlity,172,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+68,Female,Non Anginal Pain,120,211,FALSE,Normal,115,No Pain,1.5,Flat,Normal,Normal,Yes
+74,Female,Atypical Angina,120,269,FALSE,Normal,121,Pain,0.2,Downsloping,One vessel colored,Normal,Yes
+60,Female,Typical Angina,150,258,FALSE,Normal,157,No Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+48,Male,Typical Angina,124,274,FALSE,Normal,166,No Pain,0.5,Flat,Normal,Reversible defect,No
+56,Male,Atypical Angina,130,221,FALSE,Normal,163,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+46,Male,Typical Angina,140,311,FALSE,Abnoramlity,120,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+55,Female,Atypical Angina,135,250,FALSE,Normal,161,No Pain,1.4,Flat,Normal,Normal,Yes
+44,Male,Atypical Angina,120,220,FALSE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+52,Male,Typical Angina,112,230,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,No
+51,Male,Non Anginal Pain,94,227,FALSE,Abnoramlity,154,Pain,0,Downsloping,One vessel colored,Reversible defect,Yes
+44,Female,Non Anginal Pain,108,141,FALSE,Abnoramlity,175,No Pain,0.6,Flat,Normal,Normal,Yes
+52,Male,Typical Angina,128,204,TRUE,Abnoramlity,156,Pain,1,Flat,Normal,Unknown,No
+50,Male,Non Anginal Pain,129,196,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Typical Angina,110,239,FALSE,Normal,142,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+67,Male,Typical Angina,120,229,FALSE,Normal,129,Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+58,Male,Typical Angina,125,300,FALSE,Normal,171,No Pain,0,Downsloping,Two vessels colored,Reversible defect,No
+52,Male,Typical Angina,128,255,FALSE,Abnoramlity,161,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+44,Male,Non Anginal Pain,140,235,FALSE,Normal,180,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Female,Non Anginal Pain,112,268,FALSE,Normal,172,Pain,0,Downsloping,Normal,Normal,Yes
+63,Male,Typical Angina,130,330,TRUE,Normal,132,Pain,1.8,Downsloping,Three vessels colored,Reversible defect,No
+58,Male,Atypical Angina,125,220,FALSE,Abnoramlity,144,No Pain,0.4,Flat,Four vessel colored,Reversible defect,Yes
+60,Female,Non Anginal Pain,102,318,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+51,Male,Non Anginal Pain,100,222,FALSE,Abnoramlity,143,Pain,1.2,Flat,Normal,Normal,Yes
+64,Male,Non Anginal Pain,140,335,FALSE,Abnoramlity,158,No Pain,0,Downsloping,Normal,Normal,No
+60,Male,Typical Angina,117,230,TRUE,Abnoramlity,160,Pain,1.4,Downsloping,Two vessels colored,Reversible defect,No
+44,Male,Non Anginal Pain,120,226,FALSE,Abnoramlity,169,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Atypical Angina,125,220,FALSE,Abnoramlity,144,No Pain,0.4,Flat,Four vessel colored,Reversible defect,Yes
+55,Male,Atypical Angina,130,262,FALSE,Abnoramlity,155,No Pain,0,Downsloping,Normal,Normal,Yes
+65,Female,Non Anginal Pain,160,360,FALSE,Normal,151,No Pain,0.8,Downsloping,Normal,Normal,Yes
+48,Male,Atypical Angina,130,245,FALSE,Normal,180,No Pain,0.2,Flat,Normal,Normal,Yes
+65,Male,Typical Angina,120,177,FALSE,Abnoramlity,140,No Pain,0.4,Downsloping,Normal,Reversible defect,Yes
+51,Female,Non Anginal Pain,130,256,FALSE,Normal,149,No Pain,0.5,Downsloping,Normal,Normal,Yes
+48,Male,Non Anginal Pain,124,255,TRUE,Abnoramlity,175,No Pain,0,Downsloping,Two vessels colored,Normal,Yes
+64,Male,Typical Angina,120,246,FALSE,Normal,96,Pain,2.2,Upsloping,One vessel colored,Normal,No
+66,Male,Typical Angina,160,228,FALSE,Normal,138,No Pain,2.3,Downsloping,Normal,Fixed Defect,Yes
+46,Female,Atypical Angina,105,204,FALSE,Abnoramlity,172,No Pain,0,Downsloping,Normal,Normal,Yes
+61,Female,Typical Angina,130,330,FALSE,Normal,169,No Pain,0,Downsloping,Normal,Normal,No
+57,Male,Typical Angina,150,276,FALSE,Normal,112,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+49,Female,Typical Angina,130,269,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+56,Male,Atypical Angina,130,221,FALSE,Normal,163,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+58,Female,Asymptomatic,150,283,TRUE,Normal,162,No Pain,1,Downsloping,Normal,Normal,Yes
+63,Male,Typical Angina,140,187,FALSE,Normal,144,Pain,4,Downsloping,Two vessels colored,Reversible defect,No
+57,Male,Typical Angina,110,335,FALSE,Abnoramlity,143,Pain,3,Flat,One vessel colored,Reversible defect,No
+57,Male,Typical Angina,110,335,FALSE,Abnoramlity,143,Pain,3,Flat,One vessel colored,Reversible defect,No
+68,Male,Typical Angina,144,193,TRUE,Abnoramlity,141,No Pain,3.4,Flat,Two vessels colored,Reversible defect,No
+46,Male,Atypical Angina,101,197,TRUE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+71,Female,Non Anginal Pain,110,265,TRUE,Normal,130,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+41,Male,Atypical Angina,135,203,FALSE,Abnoramlity,132,No Pain,0,Flat,Normal,Fixed Defect,Yes
+45,Female,Typical Angina,138,236,FALSE,Normal,152,Pain,0.2,Flat,Normal,Normal,Yes
+62,Female,Typical Angina,150,244,FALSE,Abnoramlity,154,Pain,1.4,Flat,Normal,Normal,No
+65,Female,Typical Angina,150,225,FALSE,Normal,114,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+48,Female,Non Anginal Pain,130,275,FALSE,Abnoramlity,139,No Pain,0.2,Downsloping,Normal,Normal,Yes
+51,Male,Non Anginal Pain,100,222,FALSE,Abnoramlity,143,Pain,1.2,Flat,Normal,Normal,Yes
+61,Female,Typical Angina,145,307,FALSE,Normal,146,Pain,1,Flat,Normal,Reversible defect,No
+53,Male,Typical Angina,123,282,FALSE,Abnoramlity,95,Pain,2,Flat,Two vessels colored,Reversible defect,No
+59,Male,Asymptomatic,134,204,FALSE,Abnoramlity,162,No Pain,0.8,Downsloping,Two vessels colored,Normal,No
+34,Female,Atypical Angina,118,210,FALSE,Abnoramlity,192,No Pain,0.7,Downsloping,Normal,Normal,Yes
+44,Male,Typical Angina,120,169,FALSE,Abnoramlity,144,Pain,2.8,Upsloping,Normal,Fixed Defect,No
+58,Male,Typical Angina,146,218,FALSE,Abnoramlity,105,No Pain,2,Flat,One vessel colored,Reversible defect,No
+64,Female,Typical Angina,130,303,FALSE,Abnoramlity,122,No Pain,2,Flat,Two vessels colored,Normal,Yes
+56,Male,Atypical Angina,120,240,FALSE,Abnoramlity,169,No Pain,0,Upsloping,Normal,Normal,Yes
+54,Male,Non Anginal Pain,150,232,FALSE,Normal,165,No Pain,1.6,Downsloping,Normal,Reversible defect,Yes
+55,Male,Typical Angina,160,289,FALSE,Normal,145,Pain,0.8,Flat,One vessel colored,Reversible defect,No
+67,Male,Typical Angina,125,254,TRUE,Abnoramlity,163,No Pain,0.2,Flat,Two vessels colored,Reversible defect,No
+51,Male,Typical Angina,140,298,FALSE,Abnoramlity,122,Pain,4.2,Flat,Three vessels colored,Reversible defect,No
+62,Female,Typical Angina,138,294,TRUE,Abnoramlity,106,No Pain,1.9,Flat,Three vessels colored,Normal,No
+62,Male,Atypical Angina,120,281,FALSE,Normal,103,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+54,Male,Typical Angina,110,239,FALSE,Abnoramlity,126,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+54,Male,Typical Angina,110,239,FALSE,Abnoramlity,126,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+68,Male,Typical Angina,144,193,TRUE,Abnoramlity,141,No Pain,3.4,Flat,Two vessels colored,Reversible defect,No
+60,Female,Non Anginal Pain,120,178,TRUE,Abnoramlity,96,No Pain,0,Downsloping,Normal,Normal,Yes
+61,Male,Asymptomatic,134,234,FALSE,Abnoramlity,145,No Pain,2.6,Flat,Two vessels colored,Normal,No
+62,Male,Atypical Angina,128,208,TRUE,Normal,140,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Male,Atypical Angina,135,203,FALSE,Abnoramlity,132,No Pain,0,Flat,Normal,Fixed Defect,Yes
+65,Female,Typical Angina,150,225,FALSE,Normal,114,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+59,Male,Asymptomatic,170,288,FALSE,Normal,159,No Pain,0.2,Flat,Normal,Reversible defect,No
+43,Male,Typical Angina,115,303,FALSE,Abnoramlity,181,No Pain,1.2,Flat,Normal,Normal,Yes
+67,Male,Typical Angina,120,229,FALSE,Normal,129,Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+63,Male,Asymptomatic,145,233,TRUE,Normal,150,No Pain,2.3,Upsloping,Normal,Fixed Defect,Yes
+63,Female,Typical Angina,124,197,FALSE,Abnoramlity,136,Pain,0,Flat,Normal,Normal,No
+52,Male,Typical Angina,112,230,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,No
+58,Female,Typical Angina,130,197,FALSE,Abnoramlity,131,No Pain,0.6,Flat,Normal,Normal,Yes
+53,Male,Typical Angina,142,226,FALSE,Normal,111,Pain,0,Downsloping,Normal,Reversible defect,Yes
+57,Male,Typical Angina,150,276,FALSE,Normal,112,Pain,0.6,Flat,One vessel colored,Fixed Defect,No
+44,Male,Non Anginal Pain,130,233,FALSE,Abnoramlity,179,Pain,0.4,Downsloping,Normal,Normal,Yes
+51,Male,Non Anginal Pain,94,227,FALSE,Abnoramlity,154,Pain,0,Downsloping,One vessel colored,Reversible defect,Yes
+54,Female,Non Anginal Pain,110,214,FALSE,Abnoramlity,158,No Pain,1.6,Flat,Normal,Normal,Yes
+40,Male,Typical Angina,110,167,FALSE,Normal,114,Pain,2,Flat,Normal,Reversible defect,No
+57,Male,Atypical Angina,124,261,FALSE,Abnoramlity,141,No Pain,0.3,Downsloping,Normal,Reversible defect,No
+62,Female,Typical Angina,140,268,FALSE,Normal,160,No Pain,3.6,Upsloping,Two vessels colored,Normal,No
+53,Male,Typical Angina,140,203,TRUE,Normal,155,Pain,3.1,Upsloping,Normal,Reversible defect,No
+62,Male,Atypical Angina,128,208,TRUE,Normal,140,No Pain,0,Downsloping,Normal,Normal,Yes
+58,Male,Non Anginal Pain,105,240,FALSE,Normal,154,Pain,0.6,Flat,Normal,Reversible defect,Yes
+70,Male,Atypical Angina,156,245,FALSE,Normal,143,No Pain,0,Downsloping,Normal,Normal,Yes
+45,Male,Typical Angina,115,260,FALSE,Normal,185,No Pain,0,Downsloping,Normal,Normal,Yes
+42,Male,Asymptomatic,148,244,FALSE,Normal,178,No Pain,0.8,Downsloping,Two vessels colored,Normal,Yes
+58,Female,Typical Angina,170,225,TRUE,Normal,146,Pain,2.8,Flat,Two vessels colored,Fixed Defect,No
+61,Male,Typical Angina,140,207,FALSE,Normal,138,Pain,1.9,Downsloping,One vessel colored,Reversible defect,No
+62,Female,Typical Angina,140,268,FALSE,Normal,160,No Pain,3.6,Upsloping,Two vessels colored,Normal,No
+60,Male,Typical Angina,130,253,FALSE,Abnoramlity,144,Pain,1.4,Downsloping,One vessel colored,Reversible defect,No
+54,Male,Typical Angina,140,239,FALSE,Abnoramlity,160,No Pain,1.2,Downsloping,Normal,Normal,Yes
+61,Male,Typical Angina,138,166,FALSE,Normal,125,Pain,3.6,Flat,One vessel colored,Normal,No
+63,Female,Non Anginal Pain,135,252,FALSE,Normal,172,No Pain,0,Downsloping,Normal,Normal,Yes
+42,Male,Non Anginal Pain,130,180,FALSE,Abnoramlity,150,No Pain,0,Downsloping,Normal,Normal,Yes
+57,Male,Non Anginal Pain,128,229,FALSE,Normal,150,No Pain,0.4,Flat,One vessel colored,Reversible defect,No
+44,Male,Non Anginal Pain,130,233,FALSE,Abnoramlity,179,Pain,0.4,Downsloping,Normal,Normal,Yes
+54,Male,Typical Angina,124,266,FALSE,Normal,109,Pain,2.2,Flat,One vessel colored,Reversible defect,No
+51,Male,Non Anginal Pain,100,222,FALSE,Abnoramlity,143,Pain,1.2,Flat,Normal,Normal,Yes
+58,Male,Atypical Angina,125,220,FALSE,Abnoramlity,144,No Pain,0.4,Flat,Four vessel colored,Reversible defect,Yes
+68,Male,Non Anginal Pain,118,277,FALSE,Abnoramlity,151,No Pain,1,Downsloping,One vessel colored,Reversible defect,Yes
+55,Male,Typical Angina,140,217,FALSE,Abnoramlity,111,Pain,5.6,Upsloping,Normal,Reversible defect,No
+42,Male,Typical Angina,136,315,FALSE,Abnoramlity,125,Pain,1.8,Flat,Normal,Fixed Defect,No
+49,Male,Non Anginal Pain,118,149,FALSE,Normal,126,No Pain,0.8,Downsloping,Three vessels colored,Normal,No
+53,Female,Typical Angina,138,234,FALSE,Normal,160,No Pain,0,Downsloping,Normal,Normal,Yes
+52,Male,Non Anginal Pain,172,199,TRUE,Abnoramlity,162,No Pain,0.5,Downsloping,Normal,Reversible defect,Yes
+51,Male,Asymptomatic,125,213,FALSE,Normal,125,Pain,1.4,Downsloping,One vessel colored,Normal,Yes
+51,Male,Typical Angina,140,261,FALSE,Normal,186,Pain,0,Downsloping,Normal,Normal,Yes
+70,Male,Typical Angina,145,174,FALSE,Abnoramlity,125,Pain,2.6,Upsloping,Normal,Reversible defect,No
+35,Female,Typical Angina,138,183,FALSE,Abnoramlity,182,No Pain,1.4,Downsloping,Normal,Normal,Yes
+58,Male,Non Anginal Pain,112,230,FALSE,Normal,165,No Pain,2.5,Flat,One vessel colored,Reversible defect,No
+59,Male,Asymptomatic,160,273,FALSE,Normal,125,No Pain,0,Downsloping,Normal,Normal,No
+60,Male,Typical Angina,140,293,FALSE,Normal,170,No Pain,1.2,Flat,Two vessels colored,Reversible defect,No
+56,Male,Typical Angina,132,184,FALSE,Normal,105,Pain,2.1,Flat,One vessel colored,Fixed Defect,No
+35,Female,Typical Angina,138,183,FALSE,Abnoramlity,182,No Pain,1.4,Downsloping,Normal,Normal,Yes
+61,Male,Typical Angina,138,166,FALSE,Normal,125,Pain,3.6,Flat,One vessel colored,Normal,No
+58,Female,Asymptomatic,150,283,TRUE,Normal,162,No Pain,1,Downsloping,Normal,Normal,Yes
+52,Male,Typical Angina,128,255,FALSE,Abnoramlity,161,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+58,Male,Atypical Angina,120,284,FALSE,Normal,160,No Pain,1.8,Flat,Normal,Normal,No
+37,Male,Non Anginal Pain,130,250,FALSE,Abnoramlity,187,No Pain,3.5,Upsloping,Normal,Normal,Yes
+52,Male,Typical Angina,128,255,FALSE,Abnoramlity,161,Pain,0,Downsloping,One vessel colored,Reversible defect,No
+67,Male,Typical Angina,120,229,FALSE,Normal,129,Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+65,Male,Asymptomatic,138,282,TRUE,Normal,174,No Pain,1.4,Flat,One vessel colored,Normal,No
+46,Male,Atypical Angina,101,197,TRUE,Abnoramlity,156,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+68,Female,Non Anginal Pain,120,211,FALSE,Normal,115,No Pain,1.5,Flat,Normal,Normal,Yes
+43,Male,Typical Angina,115,303,FALSE,Abnoramlity,181,No Pain,1.2,Flat,Normal,Normal,Yes
+68,Female,Non Anginal Pain,120,211,FALSE,Normal,115,No Pain,1.5,Flat,Normal,Normal,Yes
+51,Male,Typical Angina,140,299,FALSE,Abnoramlity,173,Pain,1.6,Downsloping,Normal,Reversible defect,No
+52,Male,Typical Angina,112,230,FALSE,Abnoramlity,160,No Pain,0,Downsloping,One vessel colored,Normal,No
+64,Male,Non Anginal Pain,140,335,FALSE,Abnoramlity,158,No Pain,0,Downsloping,Normal,Normal,No
+59,Male,Asymptomatic,170,288,FALSE,Normal,159,No Pain,0.2,Flat,Normal,Reversible defect,No
+52,Male,Typical Angina,125,212,FALSE,Abnoramlity,168,No Pain,1,Downsloping,Two vessels colored,Reversible defect,No
+59,Male,Asymptomatic,160,273,FALSE,Normal,125,No Pain,0,Downsloping,Normal,Normal,No
+60,Female,Asymptomatic,150,240,FALSE,Abnoramlity,171,No Pain,0.9,Downsloping,Normal,Normal,Yes
+41,Male,Non Anginal Pain,112,250,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+41,Male,Atypical Angina,110,235,FALSE,Abnoramlity,153,No Pain,0,Downsloping,Normal,Normal,Yes
+56,Male,Atypical Angina,120,240,FALSE,Abnoramlity,169,No Pain,0,Upsloping,Normal,Normal,Yes
+56,Male,Atypical Angina,120,236,FALSE,Abnoramlity,178,No Pain,0.8,Downsloping,Normal,Normal,Yes
+48,Female,Non Anginal Pain,130,275,FALSE,Abnoramlity,139,No Pain,0.2,Downsloping,Normal,Normal,Yes
+39,Male,Non Anginal Pain,140,321,FALSE,Normal,182,No Pain,0,Downsloping,Normal,Normal,Yes
+64,Male,Asymptomatic,170,227,FALSE,Normal,155,No Pain,0.6,Flat,Normal,Reversible defect,Yes
+57,Male,Typical Angina,140,192,FALSE,Abnoramlity,148,No Pain,0.4,Flat,Normal,Fixed Defect,Yes
+59,Male,Asymptomatic,160,273,FALSE,Normal,125,No Pain,0,Downsloping,Normal,Normal,No
+60,Male,Typical Angina,130,206,FALSE,Normal,132,Pain,2.4,Flat,Two vessels colored,Reversible defect,No
+61,Male,Typical Angina,140,207,FALSE,Normal,138,Pain,1.9,Downsloping,One vessel colored,Reversible defect,No
+43,Female,Non Anginal Pain,122,213,FALSE,Abnoramlity,165,No Pain,0.2,Flat,Normal,Normal,Yes
+54,Male,Typical Angina,120,188,FALSE,Abnoramlity,113,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+59,Male,Typical Angina,138,271,FALSE,Normal,182,No Pain,0,Downsloping,Normal,Normal,Yes
+57,Male,Typical Angina,132,207,FALSE,Abnoramlity,168,Pain,0,Downsloping,Normal,Reversible defect,Yes
+57,Male,Atypical Angina,154,232,FALSE,Normal,164,No Pain,0,Downsloping,One vessel colored,Normal,No
+57,Male,Typical Angina,130,131,FALSE,Abnoramlity,115,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+48,Male,Typical Angina,124,274,FALSE,Normal,166,No Pain,0.5,Flat,Normal,Reversible defect,No
+70,Male,Typical Angina,145,174,FALSE,Abnoramlity,125,Pain,2.6,Upsloping,Normal,Reversible defect,No
+57,Male,Typical Angina,165,289,TRUE,Normal,124,No Pain,1,Flat,Three vessels colored,Reversible defect,No
+61,Male,Typical Angina,120,260,FALSE,Abnoramlity,140,Pain,3.6,Flat,One vessel colored,Reversible defect,No
+57,Male,Typical Angina,110,201,FALSE,Abnoramlity,126,Pain,1.5,Flat,Normal,Fixed Defect,Yes
+60,Female,Typical Angina,150,258,FALSE,Normal,157,No Pain,2.6,Flat,Two vessels colored,Reversible defect,No
+63,Female,Typical Angina,150,407,FALSE,Normal,154,No Pain,4,Flat,Three vessels colored,Reversible defect,No
+55,Female,Typical Angina,128,205,FALSE,Left ventricular hypertrophy,130,Pain,2,Flat,One vessel colored,Reversible defect,No
+64,Female,Typical Angina,180,325,FALSE,Abnoramlity,154,Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Typical Angina,110,239,FALSE,Abnoramlity,126,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+52,Male,Typical Angina,128,204,TRUE,Abnoramlity,156,Pain,1,Flat,Normal,Unknown,No
+51,Male,Typical Angina,140,299,FALSE,Abnoramlity,173,Pain,1.6,Downsloping,Normal,Reversible defect,No
+62,Female,Non Anginal Pain,130,263,FALSE,Abnoramlity,97,No Pain,1.2,Flat,One vessel colored,Reversible defect,No
+59,Male,Asymptomatic,178,270,FALSE,Normal,145,No Pain,4.2,Upsloping,Normal,Reversible defect,Yes
+52,Male,Atypical Angina,134,201,FALSE,Abnoramlity,158,No Pain,0.8,Downsloping,One vessel colored,Normal,Yes
+42,Female,Typical Angina,102,265,FALSE,Normal,122,No Pain,0.6,Flat,Normal,Normal,Yes
+59,Male,Typical Angina,135,234,FALSE,Abnoramlity,161,No Pain,0.5,Flat,Normal,Reversible defect,Yes
+61,Male,Asymptomatic,134,234,FALSE,Abnoramlity,145,No Pain,2.6,Flat,Two vessels colored,Normal,No
+42,Female,Typical Angina,102,265,FALSE,Normal,122,No Pain,0.6,Flat,Normal,Normal,Yes
+62,Female,Typical Angina,140,268,FALSE,Normal,160,No Pain,3.6,Upsloping,Two vessels colored,Normal,No
+59,Male,Non Anginal Pain,126,218,TRUE,Abnoramlity,134,No Pain,2.2,Flat,One vessel colored,Fixed Defect,No
+55,Male,Atypical Angina,130,262,FALSE,Abnoramlity,155,No Pain,0,Downsloping,Normal,Normal,Yes
+64,Male,Typical Angina,120,246,FALSE,Normal,96,Pain,2.2,Upsloping,One vessel colored,Normal,No
+42,Male,Typical Angina,140,226,FALSE,Abnoramlity,178,No Pain,0,Downsloping,Normal,Normal,Yes
+50,Female,Atypical Angina,120,244,FALSE,Abnoramlity,162,No Pain,1.1,Downsloping,Normal,Normal,Yes
+62,Male,Typical Angina,120,267,FALSE,Abnoramlity,99,Pain,1.8,Flat,Two vessels colored,Reversible defect,No
+50,Male,Typical Angina,144,200,FALSE,Normal,126,Pain,0.9,Flat,Normal,Reversible defect,No
+50,Male,Non Anginal Pain,140,233,FALSE,Abnoramlity,163,No Pain,0.6,Flat,One vessel colored,Reversible defect,No
+58,Female,Atypical Angina,136,319,TRUE,Normal,152,No Pain,0,Downsloping,Two vessels colored,Normal,No
+35,Male,Typical Angina,120,198,FALSE,Abnoramlity,130,Pain,1.6,Flat,Normal,Reversible defect,No
+45,Male,Typical Angina,104,208,FALSE,Normal,148,Pain,3,Flat,Normal,Normal,Yes
+66,Male,Typical Angina,112,212,FALSE,Normal,132,Pain,0.1,Downsloping,One vessel colored,Normal,No
+46,Male,Typical Angina,120,249,FALSE,Normal,144,No Pain,0.8,Downsloping,Normal,Reversible defect,No
+65,Male,Typical Angina,135,254,FALSE,Normal,127,No Pain,2.8,Flat,One vessel colored,Reversible defect,No
+47,Male,Non Anginal Pain,130,253,FALSE,Abnoramlity,179,No Pain,0,Downsloping,Normal,Normal,Yes
+59,Male,Asymptomatic,134,204,FALSE,Abnoramlity,162,No Pain,0.8,Downsloping,Two vessels colored,Normal,No
+38,Male,Asymptomatic,120,231,FALSE,Abnoramlity,182,Pain,3.8,Flat,Normal,Reversible defect,No
+39,Male,Typical Angina,118,219,FALSE,Abnoramlity,140,No Pain,1.2,Flat,Normal,Reversible defect,No
+58,Male,Typical Angina,146,218,FALSE,Abnoramlity,105,No Pain,2,Flat,One vessel colored,Reversible defect,No
+44,Male,Atypical Angina,120,263,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+54,Male,Typical Angina,140,239,FALSE,Abnoramlity,160,No Pain,1.2,Downsloping,Normal,Normal,Yes
+61,Female,Typical Angina,130,330,FALSE,Normal,169,No Pain,0,Downsloping,Normal,Normal,No
+57,Male,Typical Angina,130,131,FALSE,Abnoramlity,115,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+54,Male,Typical Angina,110,206,FALSE,Normal,108,Pain,0,Flat,One vessel colored,Normal,No
+42,Male,Non Anginal Pain,120,240,TRUE,Abnoramlity,194,No Pain,0.8,Upsloping,Normal,Reversible defect,Yes
+54,Male,Typical Angina,124,266,FALSE,Normal,109,Pain,2.2,Flat,One vessel colored,Reversible defect,No
+60,Male,Typical Angina,130,206,FALSE,Normal,132,Pain,2.4,Flat,Two vessels colored,Reversible defect,No
+65,Male,Typical Angina,135,254,FALSE,Normal,127,No Pain,2.8,Flat,One vessel colored,Reversible defect,No
+40,Male,Typical Angina,152,223,FALSE,Abnoramlity,181,No Pain,0,Downsloping,Normal,Reversible defect,No
+51,Female,Non Anginal Pain,140,308,FALSE,Normal,142,No Pain,1.5,Downsloping,One vessel colored,Normal,Yes
+38,Male,Asymptomatic,120,231,FALSE,Abnoramlity,182,Pain,3.8,Flat,Normal,Reversible defect,No
+42,Male,Non Anginal Pain,130,180,FALSE,Abnoramlity,150,No Pain,0,Downsloping,Normal,Normal,Yes
+56,Male,Atypical Angina,120,240,FALSE,Abnoramlity,169,No Pain,0,Upsloping,Normal,Normal,Yes
+43,Male,Non Anginal Pain,130,315,FALSE,Abnoramlity,162,No Pain,1.9,Downsloping,One vessel colored,Normal,Yes
+64,Male,Non Anginal Pain,140,335,FALSE,Abnoramlity,158,No Pain,0,Downsloping,Normal,Normal,No
+53,Male,Typical Angina,142,226,FALSE,Normal,111,Pain,0,Downsloping,Normal,Reversible defect,Yes
+49,Female,Atypical Angina,134,271,FALSE,Abnoramlity,162,No Pain,0,Flat,Normal,Normal,Yes
+57,Female,Typical Angina,140,241,FALSE,Abnoramlity,123,Pain,0.2,Flat,Normal,Reversible defect,No
+52,Female,Non Anginal Pain,136,196,FALSE,Normal,169,No Pain,0.1,Flat,Normal,Normal,Yes
+69,Female,Asymptomatic,140,239,FALSE,Abnoramlity,151,No Pain,1.8,Downsloping,Two vessels colored,Normal,Yes
+65,Male,Typical Angina,120,177,FALSE,Abnoramlity,140,No Pain,0.4,Downsloping,Normal,Reversible defect,Yes
+66,Female,Typical Angina,178,228,TRUE,Abnoramlity,165,Pain,1,Flat,Two vessels colored,Reversible defect,No
+56,Male,Asymptomatic,120,193,FALSE,Normal,162,No Pain,1.9,Flat,Normal,Reversible defect,Yes
+67,Female,Non Anginal Pain,152,277,FALSE,Abnoramlity,172,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+54,Female,Non Anginal Pain,160,201,FALSE,Abnoramlity,163,No Pain,0,Downsloping,One vessel colored,Normal,Yes
+70,Male,Typical Angina,145,174,FALSE,Abnoramlity,125,Pain,2.6,Upsloping,Normal,Reversible defect,No
+57,Male,Typical Angina,132,207,FALSE,Abnoramlity,168,Pain,0,Downsloping,Normal,Reversible defect,Yes
+67,Male,Typical Angina,160,286,FALSE,Normal,108,Pain,1.5,Flat,Three vessels colored,Normal,No
+62,Female,Non Anginal Pain,130,263,FALSE,Abnoramlity,97,No Pain,1.2,Flat,One vessel colored,Reversible defect,No
+54,Female,Non Anginal Pain,135,304,TRUE,Abnoramlity,170,No Pain,0,Downsloping,Normal,Normal,Yes
+45,Female,Typical Angina,138,236,FALSE,Normal,152,Pain,0.2,Flat,Normal,Normal,Yes
+53,Female,Typical Angina,130,264,FALSE,Normal,143,No Pain,0.4,Flat,Normal,Normal,Yes
+62,Male,Non Anginal Pain,130,231,FALSE,Abnoramlity,146,No Pain,1.8,Flat,Three vessels colored,Reversible defect,Yes
+49,Female,Typical Angina,130,269,FALSE,Abnoramlity,163,No Pain,0,Downsloping,Normal,Normal,Yes
+50,Male,Non Anginal Pain,140,233,FALSE,Abnoramlity,163,No Pain,0.6,Flat,One vessel colored,Reversible defect,No
+65,Female,Non Anginal Pain,140,417,TRUE,Normal,157,No Pain,0.8,Downsloping,One vessel colored,Normal,Yes
+69,Female,Asymptomatic,140,239,FALSE,Abnoramlity,151,No Pain,1.8,Downsloping,Two vessels colored,Normal,Yes
+52,Female,Non Anginal Pain,136,196,FALSE,Normal,169,No Pain,0.1,Flat,Normal,Normal,Yes
+58,Female,Typical Angina,100,248,FALSE,Normal,122,No Pain,1,Flat,Normal,Normal,Yes
+52,Male,Typical Angina,108,233,TRUE,Abnoramlity,147,No Pain,0.1,Downsloping,Three vessels colored,Reversible defect,Yes
+57,Female,Typical Angina,140,241,FALSE,Abnoramlity,123,Pain,0.2,Flat,Normal,Reversible defect,No
+44,Female,Non Anginal Pain,108,141,FALSE,Abnoramlity,175,No Pain,0.6,Flat,Normal,Normal,Yes
+76,Female,Non Anginal Pain,140,197,FALSE,Left ventricular hypertrophy,116,No Pain,1.1,Flat,Normal,Normal,Yes
+58,Male,Typical Angina,128,259,FALSE,Normal,130,Pain,3,Flat,Two vessels colored,Reversible defect,No
+60,Female,Non Anginal Pain,120,178,TRUE,Abnoramlity,96,No Pain,0,Downsloping,Normal,Normal,Yes
+53,Male,Typical Angina,140,203,TRUE,Normal,155,Pain,3.1,Upsloping,Normal,Reversible defect,No
+52,Male,Atypical Angina,120,325,FALSE,Abnoramlity,172,No Pain,0.2,Downsloping,Normal,Normal,Yes
+38,Male,Non Anginal Pain,138,175,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Four vessel colored,Normal,Yes
+52,Male,Non Anginal Pain,172,199,TRUE,Abnoramlity,162,No Pain,0.5,Downsloping,Normal,Reversible defect,Yes
+52,Male,Asymptomatic,118,186,FALSE,Normal,190,No Pain,0,Flat,Normal,Fixed Defect,Yes
+51,Male,Non Anginal Pain,125,245,TRUE,Normal,166,No Pain,2.4,Flat,Normal,Normal,Yes
+43,Male,Typical Angina,110,211,FALSE,Abnoramlity,161,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+39,Male,Typical Angina,118,219,FALSE,Abnoramlity,140,No Pain,1.2,Flat,Normal,Reversible defect,No
+63,Female,Typical Angina,108,269,FALSE,Abnoramlity,169,Pain,1.8,Flat,Two vessels colored,Normal,No
+52,Male,Atypical Angina,128,205,TRUE,Abnoramlity,184,No Pain,0,Downsloping,Normal,Normal,Yes
+44,Male,Typical Angina,110,197,FALSE,Normal,177,No Pain,0,Downsloping,One vessel colored,Normal,No
+45,Male,Typical Angina,142,309,FALSE,Normal,147,Pain,0,Flat,Three vessels colored,Reversible defect,No
+57,Male,Typical Angina,140,192,FALSE,Abnoramlity,148,No Pain,0.4,Flat,Normal,Fixed Defect,Yes
+39,Male,Typical Angina,118,219,FALSE,Abnoramlity,140,No Pain,1.2,Flat,Normal,Reversible defect,No
+67,Female,Typical Angina,106,223,FALSE,Abnoramlity,142,No Pain,0.3,Downsloping,Two vessels colored,Normal,Yes
+64,Male,Typical Angina,128,263,FALSE,Abnoramlity,105,Pain,0.2,Flat,One vessel colored,Reversible defect,Yes
+59,Male,Typical Angina,135,234,FALSE,Abnoramlity,161,No Pain,0.5,Flat,Normal,Reversible defect,Yes
+62,Male,Non Anginal Pain,130,231,FALSE,Abnoramlity,146,No Pain,1.8,Flat,Three vessels colored,Reversible defect,Yes
+55,Female,Typical Angina,180,327,FALSE,Left ventricular hypertrophy,117,Pain,3.4,Flat,Normal,Normal,No
+57,Male,Atypical Angina,154,232,FALSE,Normal,164,No Pain,0,Downsloping,One vessel colored,Normal,No
+60,Male,Typical Angina,140,293,FALSE,Normal,170,No Pain,1.2,Flat,Two vessels colored,Reversible defect,No
+71,Female,Atypical Angina,160,302,FALSE,Abnoramlity,162,No Pain,0.4,Downsloping,Two vessels colored,Normal,Yes
+56,Male,Atypical Angina,120,236,FALSE,Abnoramlity,178,No Pain,0.8,Downsloping,Normal,Normal,Yes
+60,Male,Typical Angina,117,230,TRUE,Abnoramlity,160,Pain,1.4,Downsloping,Two vessels colored,Reversible defect,No
+50,Female,Typical Angina,110,254,FALSE,Normal,159,No Pain,0,Downsloping,Normal,Normal,Yes
+43,Male,Typical Angina,132,247,TRUE,Normal,143,Pain,0.1,Flat,Four vessel colored,Reversible defect,No
+59,Male,Typical Angina,110,239,FALSE,Normal,142,Pain,1.2,Flat,One vessel colored,Reversible defect,No
+44,Male,Atypical Angina,120,263,FALSE,Abnoramlity,173,No Pain,0,Downsloping,Normal,Reversible defect,Yes
+56,Female,Typical Angina,134,409,FALSE,Normal,150,Pain,1.9,Flat,Two vessels colored,Reversible defect,No
+54,Male,Typical Angina,120,188,FALSE,Abnoramlity,113,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
+42,Male,Typical Angina,136,315,FALSE,Abnoramlity,125,Pain,1.8,Flat,Normal,Fixed Defect,No
+67,Male,Typical Angina,125,254,TRUE,Abnoramlity,163,No Pain,0.2,Flat,Two vessels colored,Reversible defect,No
+64,Male,Typical Angina,145,212,FALSE,Normal,132,No Pain,2,Flat,Two vessels colored,Fixed Defect,No
+42,Male,Typical Angina,140,226,FALSE,Abnoramlity,178,No Pain,0,Downsloping,Normal,Normal,Yes
+66,Male,Typical Angina,112,212,FALSE,Normal,132,Pain,0.1,Downsloping,One vessel colored,Normal,No
+52,Male,Typical Angina,108,233,TRUE,Abnoramlity,147,No Pain,0.1,Downsloping,Three vessels colored,Reversible defect,Yes
+51,Female,Non Anginal Pain,140,308,FALSE,Normal,142,No Pain,1.5,Downsloping,One vessel colored,Normal,Yes
+55,Female,Typical Angina,128,205,FALSE,Left ventricular hypertrophy,130,Pain,2,Flat,One vessel colored,Reversible defect,No
+58,Male,Non Anginal Pain,140,211,TRUE,Normal,165,No Pain,0,Downsloping,Normal,Normal,Yes
+56,Male,Asymptomatic,120,193,FALSE,Normal,162,No Pain,1.9,Flat,Normal,Reversible defect,Yes
+42,Male,Atypical Angina,120,295,FALSE,Abnoramlity,162,No Pain,0,Downsloping,Normal,Normal,Yes
+40,Male,Typical Angina,152,223,FALSE,Abnoramlity,181,No Pain,0,Downsloping,Normal,Reversible defect,No
+51,Male,Typical Angina,140,299,FALSE,Abnoramlity,173,Pain,1.6,Downsloping,Normal,Reversible defect,No
+45,Male,Atypical Angina,128,308,FALSE,Normal,170,No Pain,0,Downsloping,Normal,Normal,Yes
+48,Male,Atypical Angina,110,229,FALSE,Abnoramlity,168,No Pain,1,Upsloping,Normal,Reversible defect,No
+58,Male,Typical Angina,114,318,FALSE,Left ventricular hypertrophy,140,No Pain,4.4,Upsloping,Three vessels colored,Fixed Defect,No
+44,Female,Non Anginal Pain,108,141,FALSE,Abnoramlity,175,No Pain,0.6,Flat,Normal,Normal,Yes
+58,Male,Typical Angina,128,216,FALSE,Normal,131,Pain,2.2,Flat,Three vessels colored,Reversible defect,No
+65,Male,Asymptomatic,138,282,TRUE,Normal,174,No Pain,1.4,Flat,One vessel colored,Normal,No
+53,Male,Typical Angina,123,282,FALSE,Abnoramlity,95,Pain,2,Flat,Two vessels colored,Reversible defect,No
+41,Male,Typical Angina,110,172,FALSE,Normal,158,No Pain,0,Downsloping,Normal,Reversible defect,No
+47,Male,Typical Angina,112,204,FALSE,Abnoramlity,143,No Pain,0.1,Downsloping,Normal,Normal,Yes
+59,Male,Atypical Angina,140,221,FALSE,Abnoramlity,164,Pain,0,Downsloping,Normal,Normal,Yes
+60,Male,Typical Angina,125,258,FALSE,Normal,141,Pain,2.8,Flat,One vessel colored,Reversible defect,No
+47,Male,Typical Angina,110,275,FALSE,Normal,118,Pain,1,Flat,One vessel colored,Normal,No
+50,Female,Typical Angina,110,254,FALSE,Normal,159,No Pain,0,Downsloping,Normal,Normal,Yes
+54,Male,Typical Angina,120,188,FALSE,Abnoramlity,113,No Pain,1.4,Flat,One vessel colored,Reversible defect,No
